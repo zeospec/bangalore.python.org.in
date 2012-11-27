@@ -11,7 +11,7 @@ Install
 $ pip install pelican Markdown
 ```
 
-# Note: pelican works with ppypy.
+# Note: pelican works with pypy.
 
 Inside Virtualenv
 -------

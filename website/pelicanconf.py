@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u"kracekumar"
-SITENAME = u"BangPypers - Bangalore Python User Group"
+SITENAME = u"Bangalore Python User Group"
 SITEURL = 'http://bangalore.python.org.in'
 
 #TIMEZONE = 'Asia/Kolkatta'
