@@ -34,7 +34,7 @@
                 {% endfor %}
                 {% if DISPLAY_PAGES_ON_MENU %}
                 {% for page in PAGES %}
-                    <li><a href="{{ SITEURL }}/pages/{{ page.url }}">{{ page.title }}</a></li>
+                    <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
                 {% endfor %}
                 {% endif %}
                 </ul></nav>
@@ -56,9 +56,9 @@
                 <div class="social">
                         <h2>social</h2>
                         <ul>
-                            <li><a href="{{ SITEURL }}/{{ FEED }}" rel="alternate">atom feed</a></li>
+                            <li><a href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate"  title="{{ SITENAME }}">atom feed</a></li>
                             {% if FEED_RSS %}
-                            <li><a href="{{ SITEURL }}/{{ FEED_RSS }}" rel="alternate">rss feed</a></li>
+                            <li><a href="{{ SITEURL }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate">rss feed</a></li>
                             {% endif %}
 
                         {% for name, link in SOCIAL %}

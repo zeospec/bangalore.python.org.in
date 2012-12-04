@@ -22,4 +22,7 @@ SOCIAL = (('FaceBook Page', 'https://www.facebook.com/pages/BangPypers/160541007
           ('Meetup', '#'),)
 
 THEME = 'theme'
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+FEED_RSS = 'feeds/all.rss.xml'
+FEED_ALL_RSS = 'feeds/all.rss.xml'
 DEFAULT_PAGINATION = 10
