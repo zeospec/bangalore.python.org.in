@@ -26,3 +26,6 @@ FEED_ALL_ATOM = 'feeds/all.atom.xml'
 FEED_RSS = 'feeds/all.rss.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
 DEFAULT_PAGINATION = 10
+GITHUB_URL = "https://github.com/ipss/bangalore.python.org.in"
+DISQUS_SITENAME = "bangpypers"
+GOOGLE_ANALYTICS = "UA-36630036-1"

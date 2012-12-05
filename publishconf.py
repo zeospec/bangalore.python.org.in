@@ -14,6 +14,4 @@ DELETE_OUTPUT_DIRECTORY = True
 # Uncomment following line for absolute URLs in production:
 #RELATIVE_URLS = False
 
-DISQUS_SITENAME = "bangpypers"
-GOOGLE_ANALYTICS = "UA-36630036-1"
-GITHUB_URL = "https://github.com/kracekumar/bangalore.python.org.in"
+

@@ -10,15 +10,13 @@
 /* Imports */
 @import url("reset.css");
 @import url("pygment.css");
-@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&subset=latin);
-@import url(http://fonts.googleapis.com/css?family=Quando);
 
 /***** Global *****/
 /* Body */
 body {
     color: #000305;
     font-size: 70.5%; /* Base font size: 14px */
-    font-family: 'Quando', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: monospace, 'Quando', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     line-height: 1.429;
     margin: 0;
     padding: 0;
@@ -445,8 +443,11 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 	#add-comment input[type='submit'] {float: right; margin: 0 .5em;}
 	#add-comment * {margin-bottom: .5em;}
 
-#rss {
-float: right;
+#rss, .twitter-share-button, .fb-like, .meetup, .mailman {
+	float: right;
+}
+.twitter-timeline {
+	float: right;
 }
 
 p.first.admonition-title {
