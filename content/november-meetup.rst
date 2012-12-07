@@ -10,7 +10,7 @@ November BangPypers meetup was in InfoToros office, JP nagar on 24th.
 
 There were 10 ten people and there were two talks.
 
-We had mix of audience with beginners, intermediate users. 
+We had mix of audience  beginners, intermediate, advanced. 
 
 Baiju_ gave Introduction_ about python usage, history, comparision for 7 minutes. Video is uploaded in Youtube channel_.
 
