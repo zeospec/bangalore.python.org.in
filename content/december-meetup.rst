@@ -6,7 +6,7 @@ December Bangpypers meetup
 :author: kracekumar
 :category: meetup
 
-December BangPypers meetup will be held on 15th, December in learnstreet office.
+December BangPypers meetup will be held on 15th, December in learnstreet office. RSVP_
 
 Address
 -------
@@ -30,3 +30,4 @@ In case any one want to have discussion about particular topic it is welcome. Fe
 
 .. _PLOnlineCourse: http://www.cs.brown.edu/courses/cs173/2012/OnLine/)
 .. _Anand: http://anandology.com
+.. _RSVP: http://www.meetup.com/BangPypers/events/95108182/
