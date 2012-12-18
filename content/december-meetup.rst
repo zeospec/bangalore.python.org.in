@@ -56,10 +56,7 @@ Site suggestions
 
 3. We need an embedded "recent Bangpypers mail threads" widget on the site.
 
-4. Design love. 
-
-   * 
-The site needs a lot of of design love. There were some suggestions from the audience. The plan is for the interested parties (Sidharth) to send mockups to the mailing list. 
+4. Design love. The site needs a lot of of design love. There were some suggestions from the audience. The plan is for the interested parties (Sidharth) to send mockups to the mailing list. 
 
 5. We need a college catalogue (like the Pune company catalogue).
 
