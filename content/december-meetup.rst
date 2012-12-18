@@ -65,7 +65,6 @@ The site needs a lot of of design love. There were some suggestions from the aud
 
 6. We need a member roster. 
 
-7. Decommission the @pyconindia twitter account and use @pythonindia for all notifications of user group meetups and everything else. 
-
+7. Take appropriate steps to rename the @pyconindia twitter account and use @pythonindia for all notifications of user group meetups and everything else.
 
 
