@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
+import os
 
 AUTHOR = u"kracekumar"
 SITENAME = u"BangPypers"
@@ -21,7 +22,10 @@ SOCIAL = (('FaceBook Page', 'https://www.facebook.com/pages/BangPypers/160541007
           ('BangPypers - Mailing List', 'http://mail.python.org/mailman/listinfo/bangpypers'),
           ('Meetup', '#'),)
 
-THEME = 'theme'
+# Using full path to make the generation work even when it is triggered from some other dir.
+root = os.path.dirname(__file__)
+THEME = os.path.join(root, 'theme')
+
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 FEED_RSS = 'feeds/all.rss.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
