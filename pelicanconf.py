@@ -8,6 +8,9 @@ SITEURL = 'http://bangalore.python.org.in'
 
 #TIMEZONE = 'Asia/Kolkatta'
 
+ARTICLE_URL = "blog/{date:%Y}/{date:%M}/{date:%d}/{slug}/"
+ARTICLE_SAVE_AS = "blog/{date:%Y}/{date:%M}/{date:%d}/{slug}/index.html"
+
 DEFAULT_LANG = 'en'
 
 # Blogroll
@@ -33,3 +36,4 @@ DEFAULT_PAGINATION = 10
 GITHUB_URL = "https://github.com/ipss/bangalore.python.org.in"
 DISQUS_SITENAME = "bangpypers"
 GOOGLE_ANALYTICS = "UA-36630036-1"
+
