@@ -1,3 +1,60 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    
+    <link rel="stylesheet" href="{{ get_asset('modernist/stylesheets/styles.css')}}">
+    <link rel="stylesheet" href="{{ get_asset('modernist/stylesheets/pygment_trac.css')}}">
+    <link rel="stylesheet" href="{{ get_asset('css/bangpypers.css')}}">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <link rel="alternate" href="{{ get_url('feed.xml') }}" type="application/atom+xml">
+
+    {% if site.title %}<title>{% if title %}{{ title }} &ndash; {% endif %}{{ site.title }}{% if not title and site.subtitle %} &ndash; {{ site.subtitle }}{% endif %}</title>{% endif %}
+    
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ get_url() }}">{{ site.title }}</a></h1>
+        <p><a href="{{ get_url() }}" style="color: inherit;">{{ site.subtitle }}</a></p>
+        {#
+        <p class="view"><a href="http://github.com/orderedlist/modernist">View the Project on GitHub <small>orderedlist/modernist</small></a></p>
+        <ul>
+          <li><a href="https://github.com/orderedlist/modernist/zipballmus/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/orderedlist/modernist/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="http://github.com/orderedlist/modernist">View On <strong>GitHub</strong></a></li>
+        </ul>
+        #}
+      </header>
+      <section>
+        <!--
+        {% block breadcrumbs %}{% endblock %}
+        -->
+        <div id="content">
+            {% block content %}{% endblock %}
+        </div>
+      </section>
+    </div>
+    <footer>
+      <!--
+      <p>Project maintained by <a href="http://github.com/orderedlist">Steve Smith</a></p>
+      <p>Hosted on GitHub Pages &mdash; 
+      -->
+      <p></p>
+      <p>
+        Powered by <a href="http://mynt.mirroredwhite.com/">mynt</a> &mdash;
+        Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    </footer>
+    <script src="javascripts/scale.fix.js"></script>
+  </body>
+</html>
+
+<!--
 <!DOCTYPE html>
 
 <html>
@@ -26,7 +83,14 @@
             <div class="module">
                 <p>This is a convenient place to put a quick blurb about yourself and the purpose of this site.</p>
                 <p>This is also a good place to list any other sites you are on like <a href="https://github.com/">GitHub</a> and <a href="https://twitter.com/">Twitter</a>.</p>
-                <p><code>/_templates/layout.html#L26-30</code></p>
+            </div>
+
+            <div class="module">
+                <strong>Subscribe to BangPypers mailing list</strong><br/>
+                <form action="http://mail.python.org/mailman/subscribe/bangpypers" method="POST">
+                    E-mail: <input type="text" name="email"/><br/>
+                    <input type="submit" name="submit" value="Subscribe"/><br/>
+                </form>
             </div>
             
             <div id="footer">
@@ -34,11 +98,12 @@
             </div>
         </div>
         
-        {% block breadcrumbs %}{% endblock %}
+        {% block breadcrumbs2 %}{% endblock %}
         
         <div id="content">
-            {% block content %}{% endblock %}
+            {% block content2 %}{% endblock %}
         </div>
     </div>
 </body>
 </html>
+-->
