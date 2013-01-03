@@ -21,15 +21,15 @@ domain:
 #
 
 # Used in header meta tags and the site feed. (required to generate a valid feed)
-author: author
+author: BangPypers
 # A description of your site to be used in header meta tags.
-description:
+description: The Bangalore Python User Group
 # Used in the site feed.
 email:
 # Your site's subtitle.
-subtitle: subtitle
+subtitle: The Bangalore Python User Group
 # Your site's title. (required to generate a valid feed)
-title: title
+title: BangPypers
 
 
 #
@@ -39,6 +39,7 @@ title: title
 # If you'd like to enable Google Analytics for your site, set this to your tracking code.
 analytics:
 
+posts_url: /blog/<year>/<month>/<day>/<title>/
 
 #
 # Chances are you probably don't need to touch anything below here.
