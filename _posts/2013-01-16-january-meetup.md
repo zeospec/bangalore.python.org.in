@@ -22,10 +22,10 @@ Meetup will start at 3:00 PM.
 1. Introduction to [web.py][]  - [Anand][]
 2. Lighting talks.
 
-After the meetup, interested people can join [aaronsw memorial hacknight][].
+After the meetup, interested people can join [aaronsw memorial hacknight][hacknight].
 
 [web.py]: http://webpy.org/
 [Anand]: http://anandology.com/
 [RSVP]: http://www.meetup.com/BangPypers/events/77829272/
-[aaronsw memorial]: http://hacknight.in/hasgeek/aaronsw-memorial
+[hacknight]: http://hacknight.in/hasgeek/aaronsw-memorial
 
