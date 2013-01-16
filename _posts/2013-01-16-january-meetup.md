@@ -8,6 +8,7 @@ January BangPypers meetup will be held on 19th, January in CIS, Domlur. [RSVP][]
 
 Address
 -------
+
     Centre for Internet and Society
     No 194, 2nd C Cross, 4th Main
     Opp. Domlur Club, Domlur 2nd Stage
@@ -18,15 +19,13 @@ Meetup will start at 3:00 PM.
 
 **Agenda**
 
-
-1. Introduction to [web.py][] [PLOnlineCourse][] - [Anand][]
-
+1. Introduction to [web.py][]  - [Anand][]
 2. Lighting talks.
 
-After the meetup, interested people can join [aaronsw memorial][] hacknight.
+After the meetup, interested people can join [aaronsw memorial hacknight][].
 
 [web.py]: http://webpy.org/
-[Anand]: http://anandology.com
+[Anand]: http://anandology.com/
 [RSVP]: http://www.meetup.com/BangPypers/events/77829272/
 [aaronsw memorial]: http://hacknight.in/hasgeek/aaronsw-memorial
 
