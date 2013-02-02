@@ -35,6 +35,7 @@ title: BangPypers
 #
 # THIRD PARTY SETTINGS
 #
+feed: true
 
 # If you'd like to enable Google Analytics for your site, set this to your tracking code.
 analytics:
