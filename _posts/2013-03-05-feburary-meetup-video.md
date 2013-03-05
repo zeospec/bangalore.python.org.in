@@ -18,6 +18,6 @@ Jonathan Toomim gave talk about his HEG/near-infrared spectroscopy work. One mor
 </iframe>
 
 <iframe frameborder="0" allowfullscreen="" width="560" height="315" 
-   src="http://www.youtube.com/embed/AoO2ATlTSF?wmode=transparent&showinfo=0&rel=0&autohide=1&autoplay=0"
+   src="http://www.youtube.com/embed/AoO2ATlTSFw?wmode=transparent&showinfo=0&rel=0&autohide=1&autoplay=0"
    frameborder="0" allowfullscreen>
 </iframe>
