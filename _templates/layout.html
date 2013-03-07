@@ -20,17 +20,27 @@
   <body>
     <div class="wrapper">
       <header>
+
         <h1><a href="{{ get_url() }}">{{ site.title }}</a></h1>
         <p><a href="{{ get_url() }}" style="color: inherit;">{{ site.subtitle }}</a></p>
-        {#
-        <p class="view"><a href="http://github.com/orderedlist/modernist">View the Project on GitHub <small>orderedlist/modernist</small></a></p>
+
+
+            {#
         <ul>
+          <li><a href="/about/"><strong>About</strong></a></li>
           <li><a href="https://github.com/orderedlist/modernist/zipballmus/master">Download <strong>ZIP File</strong></a></li>
           <li><a href="https://github.com/orderedlist/modernist/tarball/master">Download <strong>TAR Ball</strong></a></li>
           <li><a href="http://github.com/orderedlist/modernist">View On <strong>GitHub</strong></a></li>
         </ul>
-        #}
+            #}
       </header>
+      <div class="menu">
+        <a href="/">Home</a>
+        | <a href="/about.html">About</a>
+        | <a href="http://mail.python.org/mailman/listinfo/bangpypers">Mailing List</a>
+        | <a href="http://meetup.com/BangPypers/">Meetup Page</a>
+        | <a href="http://python.org.in">Python India</a>
+      </div>
       <section>
         <!--
         {% block breadcrumbs %}{% endblock %}
