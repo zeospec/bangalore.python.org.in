@@ -1,6 +1,6 @@
 ---
 layout: post.html
-title: March Meetup 
+title: March Meetup Report
 tags: [meetup]
 ---
 
@@ -11,7 +11,7 @@ Bangpypers march meetup was held on 23rd, March 2013 in [FSMK][] office in
     No. 121/17, 1st Floor, 6th main, 14th Cross, 
     Wilson garden, Bengaluru - 560030
 
- from 2.00PM to 4.30PM.
+ from 2.00PM to 4.30PM, 25 people gathered.
 
 [Siva][] gave session how to get started with Django web development, showed a 
 demo how to create a todo list using Django admin interface.
