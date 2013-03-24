@@ -1,0 +1,15 @@
+---
+layout: post.html
+title: Bangpypers group expertise & interest poll 
+tags: [meetup, poll]
+---
+
+I have created poll to have better understanding of bangpypers meetup group expertise level, as co-organizer of the group it helps me to tell to speaker about audience level and expertise. It helps them to tune to audience level with relevant examples, talk content.
+
+Please cast the vote in the following polls.
+
+http://www.meetup.com/BangPypers/polls/780402/
+http://www.meetup.com/BangPypers/polls/780712/
+ 
+
+In case you have any other suggestions please write back to me `kracethekingmaker@gmail.com`. 
