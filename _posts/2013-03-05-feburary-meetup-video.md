@@ -26,4 +26,6 @@ Two lighting talks, one about bpython and other about python editors.
    frameborder="0" allowfullscreen>
 </iframe>
 
-25 people attend meetup in CIS.
+25 people attended meetup in [CIS][cis].
+
+[cis]: http://cis-india.org
