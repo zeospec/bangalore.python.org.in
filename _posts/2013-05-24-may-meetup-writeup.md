@@ -18,7 +18,7 @@ Talks
     
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tLnx7JzeH3I" frameborder="0" allowfullscreen></iframe>
 
-    Run python in browser is talk about how to run python in browser without sending request to server.[Empythoned][] is a project that converts CPython to LLVM bitcode and [emscripten][] converts LLVM bitcode to javascript.
+    Run python in browser is talk about how to run python in browser without sending request to server.[Empythoned][] is a project that converts CPython to LLVM bitcode and [emscripten][] converts LLVM bitcode to javascript. Here is the [code][] used in demo, feel free to contact kracekumar for further details.
 
 3. Experience in writing Python to Javascript compiler - pyjs by [Anand][]
     
@@ -39,3 +39,4 @@ You can subscribe to [mailing list][], [meetup][] page, [facebook][] page, [yout
 [meetup]: http://www.meetup.com/BangPypers/
 [facebook]: https://www.facebook.com/bangpypers
 [youtube channel]: http://www.youtube.com/playlist?list=PL6GW05BfqWIfjFsoxJTnE4g7ddFkO5ZtG
+[code]: https://github.com/kracekumar/test-empythoned
