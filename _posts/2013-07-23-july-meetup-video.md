@@ -14,7 +14,7 @@ Talks
 
 <iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/-9ibZ5w776Q?list=PL6GW05BfqWIfjFsoxJTnE4g7ddFkO5ZtG" frameborder="0" allowfullscreen></iframe>
 
-Saurabh was supposed to give a flash talk about decorators but it end up full length 38 mins talk.
+Saurabh was supposed to give a flash talk about decorators but it ended up being full length 38 mins talk.
 
 <iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/RLbEh7MEKSs?list=PL6GW05BfqWIfjFsoxJTnE4g7ddFkO5ZtG" frameborder="0" allowfullscreen></iframe>
 
