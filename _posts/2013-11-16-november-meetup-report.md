@@ -19,4 +19,8 @@ Saurabh gave a talk about using docopt.
 
 <script async class="speakerdeck-embed" data-id="c2641fa030ef013117604a6663548e9a" data-ratio="0.707182320441989" src="//speakerdeck.com/assets/embed.js"></script>
 
+Shantnu gave a lighting talk about [graphite](http://graphite.wikidot.com/).
+
+[Kracekumar][] also gave a lighting talk about how to use ipython to write blog post.
+
 [kracekumar]: https://twitter.com/kracetheking
