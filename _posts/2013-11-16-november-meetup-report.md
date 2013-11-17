@@ -13,7 +13,7 @@ Talks
 
 <script async class="speakerdeck-embed" data-id="8506ea6030f00131c6a20e119e1f0349" data-ratio="0.707182320441989" src="//speakerdeck.com/assets/embed.js"></script>
 
-Saurabh gave a talk about using docopt.
+Saurabh gave a talk about using [docopt](https://github.com/saurabh-hirani/talks/tree/master/docopt). It was lucid and clean explanation.
 
 [Kracekumar][] gave talk [Django vs Flask](https://speakerdeck.com/kracekumar/django-vs-flask).
 
