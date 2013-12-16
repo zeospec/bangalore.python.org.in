@@ -36,5 +36,5 @@ Talks: (3:00 - 5:00 PM)
 
     The talk will include basic introduction to django_rq, RQ(Redis Queue system) and how we can quickly integrate the same into any django project.
 
-3. Logging and error reporting for fairly large projects - Fayaz
+3. Logging and error reporting for fairly large projects - [Fayaz](http://www.meetup.com/BangPypers/members/80842072/).
 
