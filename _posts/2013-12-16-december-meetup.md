@@ -32,9 +32,9 @@ Talks: (3:00 - 5:00 PM)
 
 1. Introduction to IPython - Beginner level - [Kracekumar](https://twitter.com/kracetheking) - 30 minutes.
 
-2. Intro and jumping onto django_rq - [Sandeep](https://twitter.com/sandeepbhaskar).
+2.  Intro Pycassa - [Shoaib](http://www.meetup.com/BangPypers/members/78184512/)
 
-    The talk will include basic introduction to django_rq, RQ(Redis Queue system) and how we can quickly integrate the same into any django project.
+    This talk will start with a high level introduction to Cassandra and its data model. A major portion of the talk will be used for understanding Pycassa, the python client library for Cassandra and exploring various pycassa methods for interacting with the Cassandra data model.
 
 3. Logging and error reporting for fairly large projects - [Fayaz](http://www.meetup.com/BangPypers/members/80842072/).
 
