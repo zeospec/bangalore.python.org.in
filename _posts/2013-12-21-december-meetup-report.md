@@ -4,7 +4,13 @@ title: December 2013 Meetup report
 tags: [meetup]
 ---
 
-The [December Bangpypers](http://www.meetup.com/BangPypers/events/125797532/) meetup happened at the [ThoughtWorks office](https://www.google.co.in/maps/preview#!q=ThoughtWorks%2C+147%2FF%2C+2nd+Floor%2C+ACR+Mansion%2C+8th+Main+Rd%2C+3rd+Block%2C+Koramangala%2C+Bangalore%2C+Karnataka%2C+560034%2C+Koramangala+3+Block%2C+Koramangala%2C+Bangalore%2C+Karnataka&data=!4m15!2m14!1m13!1s0x3bae14053a4499f5%3A0xe2b2b820791f972d!3m8!1m3!1d228436!2d77.6309395!3d12.9539974!3m2!1i1280!2i705!4f13.1!4m2!3d12.928713!4d77.62889). Instead of just the usual 3 hour meetup, this time, we had a beginner level Python workshop in the morning which almost the same number of people attended. [Sayan] handled the workshop gracefully. His presentation is available [here](http://slid.es/ratnadeepdebnath/intro-to-python).
+The [December Bangpypers](http://www.meetup.com/BangPypers/events/125797532/) meetup happened at the [ThoughtWorks office](https://www.google.co.in/maps/preview#!q=ThoughtWorks%2C+147%2FF%2C+2nd+Floor%2C+ACR+Mansion%2C+8th+Main+Rd%2C+3rd+Block%2C+Koramangala%2C+Bangalore%2C+Karnataka%2C+560034%2C+Koramangala+3+Block%2C+Koramangala%2C+Bangalore%2C+Karnataka&data=!4m15!2m14!1m13!1s0x3bae14053a4499f5%3A0xe2b2b820791f972d!3m8!1m3!1d228436!2d77.6309395!3d12.9539974!3m2!1i1280!2i705!4f13.1!4m2!3d12.928713!4d77.62889). Instead of just the usual 3 hour meetup, this time, we had a beginner level Python workshop in the morning which almost the same number of people attended.
+
+Workshop
+---
+The workshop commenced at 10:00AM and was facilitated by [Sayan]. After introudcing Python, he dived deeper into it with hands on exercises for basic strings, data structures and conditions. The session was very interactive and it came to and end at 1:45PM. Find his slides below: 
+
+<iframe src="//slid.es/ratnadeepdebnath/intro-to-python/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Talks
 ---
