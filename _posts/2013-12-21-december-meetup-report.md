@@ -8,7 +8,7 @@ The [December Bangpypers](http://www.meetup.com/BangPypers/events/125797532/) me
 
 Workshop
 ---
-The workshop commenced at 10:00AM and was facilitated by [Sayan]. After introudcing Python, he dived deeper into it with hands on exercises for basic strings, data structures and conditions. The session was very interactive and it came to and end at 1:45PM. Find his slides below: 
+The workshop commenced at 10:00AM and was facilitated by [Sayan]. After introudcing Python, he dived deeper into it with hands on exercises for basic strings, data structures and conditions. The session was very interactive and it came to and end at 1:45PM. Find his slides below:
 
 <iframe src="//slid.es/ratnadeepdebnath/intro-to-python/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -17,7 +17,8 @@ Talks
 
 After finishing the workshop as well as lunch, everyone gathered back at the TW hall around 3PM and the sessions started at around 3:20PM.
 
-The sessions kicked off with [Kracekumar][]'s introduction to iPython. He started off by explaining the various difficulties that users face while fiddling around with the normal Python interpreter, multiline editing being the major bottle neck. He went one explaining the myriad of features that came with iPython that helped make life much easier. Auto-completion, iPython notebook, running system command from within the interpreter, getting help for the objects, and ended with displaying [nbviewer](http://nbviewer.ipython.org/), where you could share your iPython notebooks as gists. You can find his notebook [here](http://nbviewer.ipython.org/gist/kracekumar/8059932).
+The sessions kicked off with [Kracekumar][]'s introduction to iPython. He started off by explaining the various difficulties that users face while fiddling around with the normal Python interpreter, multiline editing being the major bottle neck. He went one explaining the myriad of features that came with iPython that helped make life much easier.
+Auto-completion, iPython notebook, running system command from within the interpreter, getting help for the objects, and ended with displaying [nbviewer](http://nbviewer.ipython.org/), where you could share your iPython notebooks as gists. You can find his notebook [here](http://nbviewer.ipython.org/gist/kracekumar/8059932).
 
 Next up was [Shoaib Najeeb][] with his talk on using Cassandra from Pycassa. It was quite an elaborate talk where he started right from the basics explaining the NoSQL database layout contrasting it with the RDBMS ones. After having gotten everyone on the same page with the Cassandra basics, he then moved onto explaining the CAP theorem as well as the configuration required on Pycassa to get it up and running. The session was extremely interactive where he was bombarded with questions, all of which he replied to to the best of his knowledge. As time was running out, leaving his audience thirsty for more, he concluded his session by 5:40PM. The link to his presentation will be updated soon.
 
