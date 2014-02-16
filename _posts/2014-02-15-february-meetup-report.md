@@ -4,7 +4,7 @@ title: February 2014 Meetup report
 tags: [meetup]
 ---
 
-Surprisingly, the [February Bangpypers meetup](http://www.meetup.com/BangPypers/events/125797572/) witnessed a whooping crowd of 46 Puys attending it. The LinkedIN office space where it was being held, had to be modified a little in order to accommodate everyone comfortably. The meetup was in the form a full-day hands on beginner level Python workshop. It was facilitated by [Haris Ibrahim K. V.] The agenda was to work through problems, thereby introducing and teaching Python. [Krace][], [Siva][], [Sayan][] and Souradeep came forward willingly to help the participants out whenever they had any doubt.
+Surprisingly, the [February Bangpypers meetup](http://www.meetup.com/BangPypers/events/125797572/) witnessed a whooping crowd of 46 Puys attending it. The LinkedIN office space where it was being held, had to be modified a little in order to accommodate everyone comfortably. The meetup was in the form a full-day hands on beginner level Python workshop. It was facilitated by [Haris Ibrahim K. V.] The agenda was to work through problems, thereby introducing and teaching Python. [Kracekumar][], [Siva][], [Sayan][] and Souradeep came forward willingly to help the participants out whenever they had any doubt.
 
 The workshop, which was supposed to commence at 10:00AM, got delayed by half an hour as people were pouring in one after the other. It started off by teaching everyone to [fly with Python](https://xkcd.com/353/) by importing 'antigravity'. After the initial gimmick was done with, the customary "Hello world" program was written, comparing it with the way it would be if this was a beginner Java or C workshop. God forbid.
 
