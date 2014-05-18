@@ -31,7 +31,7 @@ Just before getting started, there was a special announcement. [Daniel Roy Green
 <blockquote class="twitter-tweet" lang="en"><p>Thank you <a href="https://twitter.com/pydanny">@pydanny</a> for giving two scoops to bangpypers. The mantle is with <a href="https://twitter.com/sivaa_in">@sivaa_in</a> to begin with. <a href="http://t.co/J3nCeDwlER">pic.twitter.com/J3nCeDwlER</a></p>&mdash; Kracekumar (@kracetheking) <a href="https://twitter.com/kracetheking/statuses/467723073991352320">May 17, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Finishing one part after the other, Krace made writing tests a parallel task from the beginning onwards. Giving a rock solid explanation on classes and its use, the workshop was concluded by 4:30PM. There were bonds strengthened, new friends made and good will spread around among the Puys all through the day. We shook hands and left, impatient for the next gathering.
+Finishing one part after the other, Krace made writing tests a parallel task from the beginning onwards. Giving a rock solid explanation on classes and its use, the workshop was concluded by 4:30PM. There were bonds strengthened, new friends made and good will spread around among the Puys all through the day. We shook hands and left, impatiently waiting for the next gathering.
 
 [Kracekumar]: https://twitter.com/kracetheking
 [Sayan Chowdhury]: https://twitter.com/chowdhury_sayan
