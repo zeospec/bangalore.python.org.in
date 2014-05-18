@@ -17,7 +17,7 @@ The meetup was organized as a continuation to last month's beginner-level proble
 * Installing third party libraries
 * Using standard library and third party libraries
 
-Find the exercises and solution used for the workshop here: [https://github.com/kracekumar/pythonbyexamplestutorial](https://github.com/kracekumar/pythonbyexamplestutorial)
+Find the exercises and solutions used for the workshop here: [https://github.com/kracekumar/pythonbyexamplestutorial](https://github.com/kracekumar/pythonbyexamplestutorial)
 
 As was the case for the past couple of meetups, 50 people attended. The entire cafeteria got occupied and we had to pull in chairs around the area to accommodate those few who were late to join the party. Krace started off by doing a quick recap of what was covered during the last meetup. Making sure everyone was on the same page, he jumped into functions. Slowly building upon one function after the other, he hand held the crowd to be prepared for the scarier parts that were to follow.
 
@@ -37,3 +37,4 @@ Finishing one part after the other, Krace made writing tests a parallel task fro
 [Sayan Chowdhury]: https://twitter.com/chowdhury_sayan
 [Haris Ibrahim K V]: https://twitter.com/harisibrahimkv
 [Siva]: https://twitter.com/sivaa_in
+[Daniel Roy Greenfeld]: https://twitter.com/pydanny
