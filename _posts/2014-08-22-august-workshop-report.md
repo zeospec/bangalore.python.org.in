@@ -16,6 +16,8 @@ There were about 45 participants for the workshop, one of them personally thanki
 
 Towards the end, a copy of Two Scoops of Django and Python 101 were circulated among the participants. Some of the participants and organizers hung around to discuss about the upcoming [Python India Conference](http://in.pycon.org) and the [Python Express](http://pythonexpress.in) initiative.
 
+[Find the content of the workshop here](https://github.com/kracekumar/pythonbyexamplestutorial/tree/master/august-workshop)
+
 Special thanks to [Iliyas Shirol][] for being a great help in organizing the event at InMobi.
 
 [Kracekumar]: https://twitter.com/kracetheking
