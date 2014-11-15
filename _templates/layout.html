@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    
+
     <link rel="stylesheet" href="{{ get_asset('modernist/stylesheets/styles.css')}}">
     <link rel="stylesheet" href="{{ get_asset('modernist/stylesheets/pygment_trac.css')}}">
     <link rel="stylesheet" href="{{ get_asset('css/bangpypers.css')}}">
@@ -12,7 +12,7 @@
     <link rel="alternate" href="{{ get_url('feed.xml') }}" type="application/atom+xml">
 
     {% if site.title %}<title>{% if title %}{{ title }} &ndash; {% endif %}{{ site.title }}{% if not title and site.subtitle %} &ndash; {{ site.subtitle }}{% endif %}</title>{% endif %}
-    
+
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -23,9 +23,7 @@
 
           <ul class="social">
             <li class="facebook"><a title="Visit BangPypers on facebook.com" href="http://facebook.com/bangpypers"></a></li>
-            <!--
-            <li class="twitter"><a href="https://twitter.com/bangpypers"></a></li>
-            -->
+            <li class="twitter"><a href="https://twitter.com/__bangpypers__"></a></li>
           </ul>
 
         <h1><a href="{{ get_url() }}">{{ site.title }}</a></h1>
@@ -75,10 +73,10 @@
       </script>
       <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
       <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-    
+
       <!--
       <p>Project maintained by <a href="http://github.com/orderedlist">Steve Smith</a></p>
-      <p>Hosted on GitHub Pages &mdash; 
+      <p>Hosted on GitHub Pages &mdash;
       -->
       <p></p>
       <p>
@@ -96,7 +94,7 @@
 <html>
 <head>
     {% include 'page.header.html' %}
-    
+
     {% if site.title %}<title>{% if title %}{{ title }} &ndash; {% endif %}{{ site.title }}{% if not title and site.subtitle %} &ndash; {{ site.subtitle }}{% endif %}</title>{% endif %}
 </head>
 
@@ -107,7 +105,7 @@
                 <h1><a href="{{ get_url() }}">{{ site.title }}</a></h1>
                 {% if site.subtitle %}<h2>{{ site.subtitle }}</h2>{% endif %}
             </div>
-            
+
             <div class="module module-nav">
                 <ul class="unstyled">
                     <li><a href="{{ get_url() }}">Blog</a></li>
@@ -115,7 +113,7 @@
                     <li><a href="{{ get_url('feed.xml') }}">Feed</a></li>
                 </ul>
             </div>
-            
+
             <div class="module">
                 <p>This is a convenient place to put a quick blurb about yourself and the purpose of this site.</p>
                 <p>This is also a good place to list any other sites you are on like <a href="https://github.com/">GitHub</a> and <a href="https://twitter.com/">Twitter</a>.</p>
@@ -128,14 +126,14 @@
                     <input type="submit" name="submit" value="Subscribe"/><br/>
                 </form>
             </div>
-            
+
             <div id="footer">
                 <p>{% if site.author %}&copy; {{ none|date('%Y') }} {{ site.author }} &ndash; {% endif %}powered by <a href="http://mynt.mirroredwhite.com/">mynt</a></p>
             </div>
         </div>
-        
+
         {% block breadcrumbs2 %}{% endblock %}
-        
+
         <div id="content">
             {% block content2 %}{% endblock %}
         </div>
