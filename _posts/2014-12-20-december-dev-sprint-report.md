@@ -34,7 +34,7 @@ Here is a list of pull requests and commits by participants (not in any order)
 Comments by participants can be found in [meetup page](http://www.meetup.com/BangPypers/events/160108032/).
 ![photo2](https://lh5.googleusercontent.com/-yhaxNp1BaHM/VJV4h-HHEeI/AAAAAAAAF40/Yt3VPvhluso/w958-h637-no/DSC00457.JPG)
 
-Big thanks for [APIgee][] for sponsoring food and venue for the meetup. Complete photos of the event can be found in [G+ page](https://plus.google.com/photos/112420258095319874956/albums/6094906363431148209).
+Big thanks for [APIgee][] for sponsoring food and venue for the meetup and [pssi][] for sponsoring the t-shirt. Complete photos of the event can be found in [G+ page](https://plus.google.com/photos/112420258095319874956/albums/6094906363431148209).
 
 We also have a [mailing list](https://mail.python.org/mailman/listinfo/bangpypers) where discussion happens about Python.
 
@@ -44,3 +44,4 @@ We also have a [mailing list](https://mail.python.org/mailman/listinfo/bangpyper
 [Elvis]: https://github.com/elvisds
 [Siva]: https://github.com/sivaa
 [APIGee]: http://apigee.com/about/
+[pssi]: https://pssi.org.in
