@@ -1,0 +1,8 @@
+language: python
+node_js:
+  - '2.7'
+script: ./deploy
+env:
+ global:
+   - GH_REF: github.com/pythonindia/bangalore.python.org.in
+   - secure: Caf3BjpZSR6R3Ff7UdXfaQC3iaIAzw+VFQM98ne8aAvBIYRtgi2GNMk6dYF7pIr9pLIW4VFqeIBMXQ5rb9kYgdcYSKu6hIS1DfmpVhXqDOkO/DLCRgEtfZbeMABzeqcGnytJssTvyyqXeG+B1rKxLuWT14AutHwZLupUIMlvcIU
