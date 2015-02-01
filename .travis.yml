@@ -1,5 +1,5 @@
 language: python
-node_js:
+python:
   - '2.7'
 script: ./deploy
 env:
