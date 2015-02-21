@@ -21,4 +21,6 @@ Last and final talk was about using [MongoDB](http://www.mongodb.org/) with [PyM
 
 ![photo3](https://lh5.googleusercontent.com/K6xWESbvslXgO1Y0xAYJa8rzGFicBpCnzLrSnpWiDJJOxRmVwnJ7jnt0YzHeoDv_E9RzXA=w1896-h888)
 
+Few more photos can be found [here](https://drive.google.com/folderview?id=0B3vmn780gZJ9fnNNb1dJR2NtVHdOdU5fVTZnZHRMVjB4M0JvNkxDWHIybXVLcUVPOEhneFU&usp=sharing).
+
 We would like to thank IBM for sponsoring the venue and food. Big kudos for speakers and participants.
