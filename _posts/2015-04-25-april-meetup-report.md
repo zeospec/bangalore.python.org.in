@@ -7,7 +7,8 @@ tags: [meetup]
 The [April BangPypers meetup](http://www.meetup.com/BangPypers/events/178049472/) happened at IBM, Domlur. This time we had 4 talks from 10:30AM to 1.10PM.
 
 40+ people attended the talks. The first talk was about Enough iPython For Everyday Programming by [Anand Reddy Pandikunta](https://github.com/chillaranand).
-The talk covered various IPython features, integration with Emacs etc ... There were lot of interaction from participants.
+The talk covered various IPython features, integration with Emacs etc ... There were lot of interaction from participants. Here is the link to
+[slides](https://chillaranand.github.io/everyday-ipython/).
 
 Second talk was by [Bargava](http://www.meetup.com/BangPypers/members/88215412/) and Ragotham about plotting libraries in Python. The talk provoked lot of interesting discussions.
 
