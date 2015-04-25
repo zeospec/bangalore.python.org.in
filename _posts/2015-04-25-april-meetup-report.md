@@ -18,4 +18,4 @@ found in [slideshare](https://www.slideshare.net/slideshow/embed_code/key/117X3X
 Last talk was by [Arun Ravindran](https://twitter.com/arocks) about Emacs and Python. There were lot of Emacs users in our meetups :-)
 Presentation was in org mode and [markdown version](https://gist.github.com/arocks/2db1cc3d8c17b451d92a).
 
-There was lot of discussions during and after talks. Thanks for all speakers, participants and IBM for hosting the event.
+There were lot of discussions during and after talks. Thanks for all speakers, participants and IBM for hosting the event.
