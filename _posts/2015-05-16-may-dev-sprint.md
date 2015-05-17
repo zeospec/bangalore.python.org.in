@@ -6,7 +6,7 @@ tags: [meetup, devsprint]
 
 The [May BangPypers Dev Sprint](http://www.meetup.com/BangPypers/events/183466652/) happened at the [ThoughtWorks][] office in Kormanagala.
 
-The agenda was to contribute to open source projects. There were 40 participants. The event started with introduction about Python open source projects and participants. The participants were mix of beginners and experienced contributors. We had 4 mentors, [Arun Ravindran][], [Sayan][], [Harsh Gupta][], [Krace][].
+The agenda was to contribute to open source projects. There were 40 participants. The event started with introduction about Python open source projects and participants. The participants were mix of beginners and experienced contributors. We had 4 mentors [Arun Ravindran][], [Sayan][], [Harsh Gupta][], [Krace][].
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">List of projects at <a href="https://twitter.com/hashtag/DevSprint?src=hash">#DevSprint</a> <a href="https://twitter.com/__bangpypers__">@__bangpypers__</a> <a href="http://t.co/RteoLl4NV1">pic.twitter.com/RteoLl4NV1</a></p>&mdash; Sivasubramaniam A (@sivaa_in) <a href="https://twitter.com/sivaa_in/status/599450448236425216">May 16, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -29,7 +29,7 @@ Lot of pull requests were sent, new issues were created and learnings. Following
 - https://github.com/pythonindia/junction/issues/252
 - https://github.com/pythonindia/junction/issues/242
 
-There were few more projects were participants started but were unable to
+There were few more projects where participants started but were unable to
 send the pull request.
 
 Few tweets/photos by participants and mentors
