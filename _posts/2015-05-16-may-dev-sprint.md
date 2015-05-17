@@ -28,6 +28,7 @@ Lot of pull requests were sent, new issues were created and learnings. Following
 - https://github.com/pythonindia/junction/pull/250
 - https://github.com/pythonindia/junction/issues/252
 - https://github.com/pythonindia/junction/issues/242
+- https://github.com/waartaa/pyirc
 
 There were few more projects where participants started but were unable to
 send the pull request.
