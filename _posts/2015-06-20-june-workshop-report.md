@@ -6,7 +6,7 @@ tags: [meetup, workshop]
 
 The [June BangPypers workshop](http://www.meetup.com/BangPypers/events/192910792/) happened at the [Akamai Technologies](http://www.akamai.com/) office near Bellandur.
 
-The workshop was focused on getting started with machine learning using `pandas`, `scipy`, `numpy`, `matplotlib` & `scikit-learn`.  The presenters were Bargav[https://twitter.com/bargava] and Ragotham[https://twitter.com/raghothams]. They started workshop by explaining what is machine learning, machine learning terminology, various problems that arise in machine learning and pros, cons of various machine learning models.
+The workshop was focused on getting started with machine learning using `pandas`, `scipy`, `numpy`, `matplotlib` & `scikit-learn`.  The presenters were [Bargav](https://twitter.com/bargava) and [Ragotham](https://twitter.com/raghothams). They started workshop by explaining what is machine learning, machine learning terminology, various problems that arise in machine learning and pros, cons of various machine learning models.
 
 After theory, they helped participants to setup environment and download sample data. After that, using pandas they have examined the sample data. Later by using scikit-learn, they showed how to classify data and how to measure the accuracy of various models.
 
