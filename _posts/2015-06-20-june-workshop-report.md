@@ -20,4 +20,4 @@ Few snapshots from the workshop:
 
 ![photo2](http://photos1.meetupstatic.com/photos/event/3/9/e/7/highres_438854823.jpeg)
 
-Kudos to participanst for making the workshop great and thanks to Akamai Technologies for providing the space.
+Kudos to participants for making the workshop great and thanks to Akamai Technologies for providing the space.
