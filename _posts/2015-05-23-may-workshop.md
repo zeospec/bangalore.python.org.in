@@ -32,7 +32,7 @@ Topics covered where
 
 Content for the workshop is available in [GitHub](https://github.com/kracekumar/UTFT).
 
-Kudos for participanst making the workshop great, please take 10 seconds to fill the [feedback](https://docs.google.com/forms/d/1R6DmZc_4IfcLpR4WEJLRBaYfanl3vJb3aG4fh6Dl7lg/viewform).
+Kudos for participants making the workshop great, please take 10 seconds to fill the [feedback](https://docs.google.com/forms/d/1R6DmZc_4IfcLpR4WEJLRBaYfanl3vJb3aG4fh6Dl7lg/viewform).
 
 Thanks for Red Hat for providing the space.
 
