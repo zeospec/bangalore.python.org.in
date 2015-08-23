@@ -18,7 +18,7 @@ Second talk was Web servers - forking, pre-forking, threading, async processing 
 
 ![talk2](https://pbs.twimg.com/media/CM_asKaUkAAIWbh.jpg)
 
-This talk started with brief introduction to socket programming and then servers, forking, pre-forking, threading, async processing request. Speaker also explained the functional differences between Apache & Nginx. 
+This talk started with brief introduction to socket programming and then servers, forking, pre-forking, threading, async processing request. Speaker also explained the functional differences between Apache & Nginx. Slides can be found [here](https://docs.google.com/presentation/d/15D4VE1d6RjwE0nZNWvwSuHediAGGUbhvCbXqKfV7OV0/edit?usp=sharing)
 
 
 Third talk was Using Regular Expressions by Arvind Padmanabhan.
