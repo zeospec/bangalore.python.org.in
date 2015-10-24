@@ -3,6 +3,7 @@ set -e
 
 rm -rf build/* || exit 0;
 mkdir build;
+pip install -U misaka==1.0.2
 pip install -U mynt==0.2.3
 mynt gen -f . build
 ( cd build
