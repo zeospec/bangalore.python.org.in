@@ -1,6 +1,6 @@
 ---
 layout: post.html
-title: November  2014 Workshop report
+title: November  2015 Workshop report
 tags: [meetup]
 ---
 
