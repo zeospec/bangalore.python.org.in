@@ -6,9 +6,12 @@ tags: [meetup]
 
 What a great turnout! 133 people attended Python 101 workshop. Most number of participants in the history of Bangpypers.
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/Juniper_IN">@Juniper_IN</a> <a href="https://twitter.com/__bangpypers__">@__bangpypers__</a> <a href="https://twitter.com/hashtag/python?src=hash">#python</a> worksop in full swing with more than 150 participants <a href="https://t.co/eXFaWEdOPm">pic.twitter.com/eXFaWEdOPm</a></p>&mdash; Nitin Kr (@nitinsview) <a href="https://twitter.com/nitinsview/status/667955634545913857">November 21, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 The [November Bangpypers workshop](http://www.meetup.com/BangPypers/events/224846042/) happened at the Juniper Networks office in Kadubeesinahalli. The session started at 10:30AM and concluded around 4:30PM.
 
-[Shrishty](https://github.com/shrishty), [Nitin](https://github.com/shrishty) came forward to take workshop. [Krace kumar](https://github.com/kracekumar) organised the meetup. Shiva, Vignesh, Anurag, Janki, Madhu,  Priyal Jain, Deborah Digges and Anand were volunteers for the session.
+[Shrishty](https://github.com/shrishty), [Nitin](https://github.com/shrishty) came forward to take workshop. Siva, Vignesh, Anurag, Janki, Madhu,  Priyal Jain, Deborah Digges, Kracekumar and Anand were volunteers for the session.
 
 
 Before beginning session, volunteers helped participants with installation of python. Shrishty started morning session by explaning about python interpreter and various cli options available for it. Afterwards she expained about basic things like arthimetic, variables, strings. Later she expained about python data structures(tuples, dictionaries, lists), various operations on data structures and when to use which one.
@@ -19,7 +22,7 @@ Nitin started off session with control flows. He expained about control flows, s
 
 Entire workshop was very interactive with lots of interesting questions from participants and speakers explanation about them.
 
-In the end, Shiva & Krace kumar took live feedback from participants and answered many questions.
+In the end, Shiva & Krace kumar took live feedback from participants and answered many questions. Thanks Juniper Networks for hosting us.
 
 Here are a few snapshots from workshop
 
