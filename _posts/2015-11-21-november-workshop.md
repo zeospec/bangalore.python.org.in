@@ -11,7 +11,7 @@ What a great turnout! 133 people attended Python 101 workshop. Most number of pa
 
 The [November Bangpypers workshop](http://www.meetup.com/BangPypers/events/224846042/) happened at the Juniper Networks office in Kadubeesinahalli. The session started at 10:30AM and concluded around 4:30PM.
 
-[Shrishty](https://github.com/shrishty), [Nitin](https://github.com/shrishty) came forward to take workshop. Siva, Vignesh, Anurag, Janki, Madhu,  Priyal Jain, Deborah Digges, Kracekumar and Anand were volunteers for the session.
+[Shrishty](https://github.com/shrishty), [Nitin](https://github.com/vnitinv) came forward to take workshop. Siva, Vignesh, Anurag, Janki, Madhu,  Priyal Jain, Deborah Digges, Kracekumar and Anand were volunteers for the session.
 
 
 Before beginning session, volunteers helped participants with installation of python. Shrishty started morning session by explaning about python interpreter and various cli options available for it. Afterwards she expained about basic things like arthimetic, variables, strings. Later she expained about python data structures(tuples, dictionaries, lists), various operations on data structures and when to use which one.
