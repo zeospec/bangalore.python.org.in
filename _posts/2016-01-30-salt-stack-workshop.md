@@ -1,10 +1,10 @@
 ---
 layout: post.html
 title: January 2015 workshop report
-tags: [meetup, talks]
+tags: [meetup, workshop]
 ---
 
-We have kickstarted this year's meetup with  [salt stack workshop](http://www.meetup.com/BangPypers/events/222071834/) at [mavenhive technologies](http://www.mavenhive.in/).
+We kickstarted this year's meetup with  [salt stack workshop](http://www.meetup.com/BangPypers/events/222071834/) at [mavenhive technologies](http://www.mavenhive.in/). There were 23 participants.
 
 
 [Ram](https://gitlab.com/voidspacexyz/) took the session. He started with what is devops, why we need dev ops and various  tools available for devops.
