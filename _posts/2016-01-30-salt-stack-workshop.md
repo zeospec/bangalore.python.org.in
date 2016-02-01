@@ -1,6 +1,6 @@
 ---
 layout: post.html
-title: January 2015 workshop report
+title: January 2016 Salt stack workshop report
 tags: [meetup, workshop]
 ---
 
