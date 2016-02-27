@@ -1,6 +1,6 @@
 ---
 layout: post.html
-title: Feb 2015 bangpypers talk report
+title: Feb 2016 bangpypers talk report
 tags: [meetup, talks]
 ---
 
