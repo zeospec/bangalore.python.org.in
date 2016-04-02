@@ -6,7 +6,7 @@ tags: [meetup, workshop]
 
 [Robot framework workshop](http://www.meetup.com/BangPypers/events/229041862/) at [GreenBubbles](http://greenbubbles.in/) startup services. 30 people attended the workshop.
 
-[Saravana](https://github.com/madhavan020985) started session at 10 O clock. He expained why robot framework is needed. He demonstrated how to write basic test cases using robot framework. There was break for about 10 minutes. After the break, he demonstrated how to run test suites and how to generate nice html reports. Session ended around 12:30.
+[Saravana](https://github.com/madhavan020985) started session at 10 O clock. He explained why robot framework is needed. He demonstrated how to write basic test cases using robot framework. There was break for about 10 minutes. After the break, he demonstrated how to run test suites and how to generate nice html reports. Session ended around 12:30.
 
 Here are a few pictures from meetup.
 
