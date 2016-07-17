@@ -8,7 +8,7 @@ The [July BangPypers workshop][] happened at the [AdNear][] office in Koramangal
 
 The workshop was focused on getting started with machine learning using `scikit-learn`. [Amol Agarwal][] started workshop with basics of numpy & matplotlib. He then explained what is machine learning, supervised and unsupervised learning.
 
-After that, he explained several topics including classifiers, SVM, regression, clustering and validation. He showed machine learning use cases with examples like spam classification and facial recognistion.
+After that, he explained several topics including classifiers, SVM, regression, clustering and validation. He showed machine learning use cases with examples like spam classification and facial recognition.
 
 
 [Content of workshop][] is available on github.
