@@ -27,7 +27,8 @@ Thanks to Amol Agarwal for taking workshop and AdNear for hosting the event.
 
 [July BangPypers workshop]: http://www.meetup.com/BangPypers/events/225109017/
 [AdNear]: https://near.co/
-[Amol Agarwal]: https://github.com/pfrcks/BangPypers-SKLearn
+[Amol Agarwal]: https://github.com/pfrcks/
+[Content of workshop]: https://github.com/pfrcks/BangPypers-SKLearn
 [photo1]: http://photos2.meetupstatic.com/photos/event/3/f/c/9/highres_452176329.jpeg
 [photo2]: http://photos3.meetupstatic.com/photos/event/4/0/3/3/highres_452176435.jpeg
 [photo3]: http://photos1.meetupstatic.com/photos/event/5/3/5/1/highres_452181329.jpeg
