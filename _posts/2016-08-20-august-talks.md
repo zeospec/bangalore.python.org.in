@@ -18,7 +18,7 @@ The Second talk was by JoyDeep about "Windows task automation using pywinauto". 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Flash talk by Joydeep about &quot;Windows automating with pywinauto&quot; <a href="https://t.co/49RvlgAj6V">pic.twitter.com/49RvlgAj6V</a></p>&mdash; BangPypers (@__bangpypers__) <a href="https://twitter.com/__bangpypers__/status/766878396764651520">August 20, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-You can find Slides for the talk in [Google Drive](https://drive.google.com/file/d/0B_4FAm4Vg99kVWs1azd4SjVRZG8/view) and, the code snippet in [GitHub)(https://github.com/infinite-Joy/windows_automation).
+You can find Slides for the talk in  [GoogleDrive](https://drive.google.com/file/d/0B_4FAm4Vg99kVWs1azd4SjVRZG8/view) and, the code snippet in [GitHub](https://github.com/infinite-Joy/windows_automation).
 
 Calm offered us tea and snacks during the break. The participants took a break for twenty minutes. A lot of first timers and repeated audience indulged in offline discussions about the talks and their interests.
 
