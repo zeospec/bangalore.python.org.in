@@ -18,6 +18,14 @@ We had lunch break for about 30 minutes. After resuming from break, he showed a 
 
 Then he showed how to update all webservers with zero downtime.
 
+Here are a few photos from workshop.
+
+![i1](http://photos4.meetupstatic.com/photos/event/d/8/a/f/highres_454255471.jpeg)
+
+![i2](http://photos4.meetupstatic.com/photos/event/d/8/c/1/highres_454255489.jpeg)
+
+![i3](http://photos1.meetupstatic.com/photos/event/d/8/d/8/highres_454255512.jpeg)
+
 Workshop content can be found in [gitHub][].
 
 
