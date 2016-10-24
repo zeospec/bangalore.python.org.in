@@ -4,7 +4,7 @@ title: Django REST Framework workshop - BangPypers October Meetup
 tags: [meetup, workshop]
 ---
 
-The [October Bangpypers meetup](https://www.meetup.com/BangPypers/events/234328117/) was held at the [BHIVE Workspace](http://bhiveworkspace.com/) at HSR layout. Around 40 people turned up for the event.
+The [October Bangpypers meetup](https://www.meetup.com/BangPypers/events/234328117/) was held at the [BHIVE Workspace](http://bhiveworkspace.com/) at HSR layout. 50+ people turned up for the event.
 
 At 10AM, [Siva](https://twitter.com/sivaa_in) started off the session (well actually, Haris was late by 10 minutes :P) by introducing REST and comparing it to other ways of API development.
 
