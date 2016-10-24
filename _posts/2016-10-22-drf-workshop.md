@@ -18,6 +18,8 @@ The session was structured as a top-down exercise, where the participants, along
 
 It was quite interactive and at times the discussion went off on tangents addressing concerns that people had when building their products.
 
+![i2](https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/3/5/9/d/highres_455293725.jpeg)
+
 With a quick 10 minute break in between, we wrapped up the session at around 1.30PM. In case you missed attending the event and feel like going through the content, you can find it here:
 
 [DRF Workshop Content](https://github.com/harisibrahimkv/drf_workshop)
