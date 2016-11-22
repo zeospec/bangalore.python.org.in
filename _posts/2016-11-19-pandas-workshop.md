@@ -16,9 +16,9 @@ Content used for workshop is available [here](https://github.com/amitkaps/pandas
 
 Here are a few snapshots from the workshop:
 
-![p1](https://a248.e.akamai.net/f/248/1673/2/photos1.meetupstatic.com/photos/event/8/1/1/8/highres_441873048.jpeg)
+![p1](https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/c/c/b/3/highres_456292403.jpeg)
 
-![p2](https://a248.e.akamai.net/f/248/1673/2/photos1.meetupstatic.com/photos/event/9/0/c/e/highres_441877070.jpeg)
+![p2](https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/c/c/b/a/highres_456292410.jpeg)
 
 There was great response for the workshop. Thanks to speakers, participants for making meetup awesome and Cleartax for hosting the event.
 
