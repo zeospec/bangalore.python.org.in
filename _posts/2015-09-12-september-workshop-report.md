@@ -6,7 +6,7 @@ tags: [meetup, workshop]
 
 The [September BangPypers workshop](http://www.meetup.com/BangPypers/events/210041222/) happened at the [Akamai Technologies](http://www.akamai.com/) office near Bellandur.
 
-The workshop was an introduction to data analysis. The presenters were [Bargav](https://twitter.com/bargava) and Amith Kapoor(https://twitter.com/amitkaps).
+The workshop was an introduction to data analysis. The presenters were [Bargav](https://twitter.com/bargava) and [Amit Kapoor](https://twitter.com/amitkaps).
 
 Workshop started with a brief explanation about data analysis. Later they helped participants to setup environment. They explained how to acquire data, refine it, explore data, build models and turn data into insight. They explained about various packages that are available for data analysis at various stages and particular use cases for those packages.
 
@@ -28,5 +28,3 @@ Thanks to speakers, participants for making meetup awesome and Akamai Technologi
 
 
 If you need any help with Python or Bangpypers events, you chat with us at Bangpypers [slack channel](https://bangpypers.herokuapp.com).
-
-

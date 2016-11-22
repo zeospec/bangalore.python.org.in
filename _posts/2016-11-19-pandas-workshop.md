@@ -6,7 +6,7 @@ tags: [meetup, workshop]
 
 The [November BangPypers workshop](http://www.meetup.com/BangPypers/events/235076152/) happened at the [Clear Tax](http://cleartax.in/) office in Hongasandra.
 
-The workshop was an introduction to pandas. The presenters were [Bargava](https://twitter.com/bargava) and Amith Kapoor(https://twitter.com/amitkaps).
+The workshop was an introduction to pandas. The presenters were [Bargava](https://twitter.com/bargava) and [Amit Kapoor](https://twitter.com/amitkaps).
 
 Workshop was started at 9 O clock. First half of the workshop was theory. They started with a brief explanation about data analysis and why it is required. There was a discussion about the real life examples of data analysis. Then they showed how to use Jupyter notebook and explained the basics. There was break for about 10 minutes.
 
