@@ -14,6 +14,13 @@ Once the logistics was out of the way, the IOT Hub setup, storage configuration 
 
 The talk was well recieved and the feedback was overall very positive, requesting that a second session be conducted to continue the pattern and material of this workshop.
 
+See you all at the next meetup! :) 
+
+PS - 
+
 The code used in the meetup can be found at Sudhir's [Github link](https://github.com/rawatsudhir/RaspberryPiPythonIoT).
 
-See you all at the next meetup! :) 
+Block diagram as presented - 
+
+<img src = "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/d/8/4/5/highres_459235365.jpeg"></img>
+
