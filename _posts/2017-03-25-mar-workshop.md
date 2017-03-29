@@ -1,6 +1,6 @@
 ---
 layout: post.html
-title: Workshop - Mar, 2017
+title: Algorithms Workshop - Mar, 2017
 tags: [meetup, talks, workshop]
 ---
 
