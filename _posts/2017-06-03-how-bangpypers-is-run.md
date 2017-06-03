@@ -1,3 +1,10 @@
+---
+layout: post.html
+title: How BangPypers meetup is run
+tags: [working]
+---
+
+
 ### What is BangPypers?
 <br/>
 
