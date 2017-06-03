@@ -12,11 +12,11 @@ tags: [working]
 
 </br/>
 
-[BangPypers](https://www.quora.com/Who-decided-the-name-BangPypers-for-the-Bangalore-Python-User-Group) is a [twelve year](https://www.swaroopch.com/2005/01/22/first-bangalore-python-meetup/) old group started by Anand B Pillai. For Half a decade [meetup group](https://www.meetup.com/BangPypers/) is the anchor for organizing meetups. During the period, co-organizer has devised working for the team.
+[BangPypers](https://www.quora.com/Who-decided-the-name-BangPypers-for-the-Bangalore-Python-User-Group) is a [twelve year](https://www.swaroopch.com/2005/01/22/first-bangalore-python-meetup/) old group started by Anand B Pillai. For Half a decade [meetup group](https://www.meetup.com/BangPypers/) is the anchor for organizing Python meetups in Bangalore. During the period, co-organizer has devised working for the team.
 
 ### Event Types?
 
-In last five, the team organized Sixty-four meetups have been. Few early volunteers left the team. Moved to different city, nation, continent. Kudos to everyone!
+In last five years, the team organized Sixty-four meetups. Few early volunteers left the team. Moved to different city, nation, and continent. Kudos to everyone!
 
 <img src="https://pbs.twimg.com/media/C7MLfJ4VwAEMdNY.jpg" width="600">
 
@@ -26,7 +26,7 @@ Talks are half a day event with minimum three speakers. Sometimes with six speak
 
 Next format is the workshop. Workshops are a complete hands-on event for a half day or full day. The one or two speakers come together and handle a session.
 
-The last format is Dev Sprint. Dev Sprint is a half a day or full day event. The developers visit the premise and work on the FOSS projects. Sometimes maintainers of the projects attend the event and help participants contributors.
+The last format is Dev Sprint. Dev Sprint is a half a day or full day event. The developers visit the premise and work on the FOSS projects. Sometimes maintainers of the projects attend the event and help participants contribute.
 
 All three event formats take different effort to organize. For example, talks and dev sprint require a higher degree of co-ordination to find speakers and mentors.
 
@@ -52,7 +52,7 @@ The speakers and topic attract the audience for the meetup. The compelling conte
 
 #### RSVP
 
-The team's biggest challenge is knowing how many will attend the meetup. The majority of the event is free of cost. So interested participants RSVP. Not everyone who showed interest show up for the event. During initial days, only 20% of participants who showed interest attended the meetup. Now the ratio is above 50%. RSVP opens six days before the event with 2X venue capacity with the open waitlist. Three days before a volunteer sends out an email to all participants who showed interest to un-RSVP in the case of any change in plans.
+The team's biggest challenge is knowing how many will attend the meetup. Till date, all the events were free of cost. So interested participants RSVP. Not everyone who showed interest show up for the event. During initial days, only 20% of participants who showed interest attended the meetup. Now the ratio is above 50%. RSVP opens six days before the event with 2X venue capacity with the open waitlist. Three days before a volunteer sends out an email to all participants who showed interest to un-RSVP in the case of any change in plans.
 
 #### Managing meetup page
 
@@ -72,14 +72,14 @@ Feedback is the fruit of the event. Feedback gives us the sense of participants 
 
 #### Planning
 
-The team uses Email and Whatsapp for internal communication to discuss labor sharing, whom to contact for the venue, what topics to discuss and how will be available during the meetup, how can we and post-mortem. During any month, the volunteers start planning for next two meetups. Whether the next meetups are workshop or talks, where to host etc. You can see the team members in the meetup group co-organization section.
+The team uses Email and Whatsapp for internal communication to discuss labor sharing, whom to contact for the venue, what topics to discuss and who will be available during the meetup, how can we and post-mortem. During any month, the volunteers start planning for next two meetups. Whether the next meetups are workshop or talks, where to host etc. You can see the team members in the meetup group co-organization section.
 
 #### Video
 
 In last three meetups, a volunteer record talks using an iPhone and uploads to [YouTube channel](https://www.youtube.com/channel/UCIYL-l3N9VLFbqMum40D-1w). The video coverage is still at the experimental stage.
 
 
-The organizing team spends a significant amount of time do all the work. On an average, the team, not an individual spends somewhere between twelve to fifteen hours monthly to run the meetup.
+The organizing team spends a significant amount of time doing all the work. On an average, the team, not an individual spends somewhere between twelve to fifteen hours monthly to run the meetup.
 
 It has taken years for us to reach this place. If you have read this far and manage a meetup group, take a couple of hours and write up how you organize the meetup. All of us can learn from each other.
 
