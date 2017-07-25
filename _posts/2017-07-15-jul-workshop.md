@@ -4,8 +4,6 @@ title: Device Interfacing Workshop - July, 2017
 tags: [meetup, talks, workshop]
 ---
 
-# Device interfacing with Python
-
 BangPypers organized a full-day workshop on 15/July/2017, titled, 'Device interfacing with Python'. Workshop was conducted by folks from Zilogic Systems, Chennai -- Vijay Kumar, Deepak, Babusubashchandar, and Rashid Muhammed -- and the venue for the workshop was the corporate office of Treebo Hotels. Intent of the workshop was to initiate the participants on how to use Python programming language to interface with embedded hardware.
 
 Workshop began with introduction to basics of embedded systems, understanding different types of operating systems, quick run through the GNU/Linux OS, then progressing towards hardware interfacing, device drivers, and serial communication, concluding with note on sysfs and how to use sysfs to control hardware. Workshop was a mix of theoritical concepts that preceded the hands-on sessions -- Zilogic folks split the tasks of speaking as the slides rolled out for each session and helping the participants as part of the hands-on.
