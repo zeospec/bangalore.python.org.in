@@ -3,10 +3,10 @@ layout: post
 title:  "November Bangpypers Meetup"
 author: bangpypers
 tags: [bangpypers]
-description: "BangPypers November 2017 Meetup"
+description: "BangPypers November 2012 Meetup"
 categories: [ meetup ]
-image: /assets/images/posts/november2017.png
-featured: true
+image: 
+featured: false
 hidden: false
 ---
 
