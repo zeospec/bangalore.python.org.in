@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: April 2015 Meetup report
-tags: [meetup]
+layout: post
+title:  "April 2015 Meetup report"
+author: bangpypers
+tags: [bangpypers]
+description: "April 2015 Meetup report"
+categories: [ meetup ]
+image:
+featured: false
+hidden: false
 ---
 
 The [April BangPypers meetup](http://www.meetup.com/BangPypers/events/178049472/) happened at IBM, Domlur. This time we had 4 talks from 10:30AM to 1.10PM.

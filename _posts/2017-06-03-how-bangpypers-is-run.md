@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: How BangPypers meetup is run
-tags: [working]
+layout: post
+title:  "How BangPypers meetup is run"
+author: bangpypers
+tags: [bangpypers]
+description: "How BangPypers meetup is run"
+categories: [ working ]
+image:
+featured: false
+hidden: false
 ---
 
 

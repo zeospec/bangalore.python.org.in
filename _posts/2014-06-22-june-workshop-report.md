@@ -1,10 +1,16 @@
 ---
-layout: post.html
-title: June 2014 Workshop report
-tags: [meetup]
+layout: post
+title:  "June 2014 Workshop report"
+author: bangpypers
+tags: [bangpypers]
+description: "June 2014 Workshop report"
+categories: [ meetup ]
+image:
+featured: false
+hidden: false
 ---
 
-The [June Bangpypers workshop](http://www.meetup.com/BangPypers/events/125797682//) happened at the Apigee office, Koramangala. [Kracekumar][] facilitated the workshop. [Siva][] came forward as volunteer. The session started at 10:30AM and concluded around 1:30PM.
+The [June Bangpypers workshop](https://www.meetup.com/BangPypers/events/125797682//) happened at the Apigee office, Koramangala. [Kracekumar][] facilitated the workshop. [Siva][] came forward as volunteer. The session started at 10:30AM and concluded around 1:30PM.
 
 The workshop covered following topics
 

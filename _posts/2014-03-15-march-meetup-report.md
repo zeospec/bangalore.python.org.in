@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: March 2014 Meetup report
-tags: [meetup]
+layout: post
+title:  "March 2014 Meetup report"
+author: bangpypers
+tags: [bangpypers]
+description: "March 2014 Meetup report"
+categories: [ meetup ]
+image:
+featured: false
+hidden: false
 ---
 
 "Writing tests is an absolute waste of time", some of them say.

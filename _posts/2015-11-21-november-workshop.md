@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: November  2015 Workshop report
-tags: [meetup]
+layout: post
+title:  "November 2015 Workshop report"
+author: bangpypers
+tags: [bangpypers]
+description: "November 2015 Workshop report"
+categories: [ meetup ]
+image:
+featured: false
+hidden: false
 ---
 
 What a great turnout! 133 people attended Python 101 workshop. Most number of participants in the history of Bangpypers.

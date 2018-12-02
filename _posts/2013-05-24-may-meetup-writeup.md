@@ -1,9 +1,14 @@
 ---
-layout: post.html
-title: May Meetup 
-tags: [meetup]
+layout: post
+title:  "May Meetup"
+author: bangpypers
+tags: [bangpypers]
+description: "May Meetup"
+categories: [ meetup ]
+image:
+featured: false
+hidden: false
 ---
-
 
 Bangpypers may meetup was be held on 18th, May 2013 in [Alphalabs][] JP Nagar .
 
@@ -30,13 +35,13 @@ You can subscribe to [mailing list][], [meetup][] page, [facebook][] page, [yout
 
 
 
-[Aplhalabs]: http://bangalorealphalab.in/
-[Anand]: http://anandology.com
-[Kracekumar]: http://kracekumar.com
+[Aplhalabs]: https://bangalorealphalab.in/
+[Anand]: https://anandology.com
+[Kracekumar]: https://kracekumar.com
 [Empythoned]: https://github.com/replit/empythoned
 [emscripten]: https://github.com/kripken/emscripten
-[mailing list]: http://mail.python.org/mailman/listinfo/bangpypers
-[meetup]: http://www.meetup.com/BangPypers/
+[mailing list]: https://mail.python.org/mailman/listinfo/bangpypers
+[meetup]: https://www.meetup.com/BangPypers/
 [facebook]: https://www.facebook.com/bangpypers
-[youtube channel]: http://www.youtube.com/playlist?list=PL6GW05BfqWIfjFsoxJTnE4g7ddFkO5ZtG
+[youtube channel]: https://www.youtube.com/playlist?list=PL6GW05BfqWIfjFsoxJTnE4g7ddFkO5ZtG
 [code]: https://github.com/kracekumar/test-empythoned

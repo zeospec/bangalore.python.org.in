@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: Talks - Feb, 2017
-tags: [meetup, talks]
+layout: post
+title:  "Talks – Feb, 2017"
+author: bangpypers
+tags: [bangpypers]
+description: "Talks – Feb, 2017"
+categories: [ meetup, talks ]
+image:
+featured: false
+hidden: false
 ---
 
 This meetup was different from previous one. Every meetup is different and unique since topics and attendees are different. This meetup was a testbed for a new format called `Short Talks`. Each short talk lasts for ten minutes and Q&A for five minutes. In fifteen minutes, a talk is over. We had seven such talks in Feb meetup.

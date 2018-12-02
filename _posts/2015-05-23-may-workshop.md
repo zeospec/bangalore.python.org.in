@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: May 2015 meetup report
-tags: [meetup, workshop]
+layout: post
+title:  "May 2015 meetup report"
+author: bangpypers
+tags: [bangpypers]
+description: "May 2015 meetup report"
+categories: [ meetup, workshop ]
+image:
+featured: false
+hidden: false
 ---
 
 The [May BangPypers workshop](http://www.meetup.com/BangPypers/events/222588421/) happened at the [RedHat][] office in Bannerghatta Road.

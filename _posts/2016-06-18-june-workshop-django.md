@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: Django Workshop - June 2016 Meetup
-tags: [meetup, workshop]
+layout: post
+title:  "Django Workshop – June 2016 Meetup"
+author: bangpypers
+tags: [bangpypers]
+description: "Django Workshop – June 2016 Meetup"
+categories: [ meetup, workshop ]
+image:
+featured: false
+hidden: false
 ---
 
 [June  Bangpypers meetup](http://www.meetup.com/BangPypers/events/225109019/) happened at the [Knowlarity][] office near Trinity. [Kracekumar][] facilitated the workshop. 57 people attended the workshop.

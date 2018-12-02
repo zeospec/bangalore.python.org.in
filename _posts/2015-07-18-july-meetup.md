@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: July 2015 meetup report
-tags: [meetup, talks]
+layout: post
+title:  "July 2015 meetup report"
+author: bangpypers
+tags: [bangpypers]
+description: "July 2015 meetup report"
+categories: [ meetup, talks ]
+image:
+featured: false
+hidden: false
 ---
 
 The [July BangPypers talks](http://www.meetup.com/BangPypers/events/197867222/) happened at the [LinkedIn](https://www.linkedin.com/) in Prestige tech park. 82 people attended the event!

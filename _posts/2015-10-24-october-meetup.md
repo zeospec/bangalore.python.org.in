@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: October  2015 meetup report
-tags: [meetup, talks]
+layout: post
+title:  "October 2015 meetup report"
+author: bangpypers
+tags: [bangpypers]
+description: "October 2015 meetup report"
+categories: [ meetup, talks ]
+image:
+featured: false
+hidden: false
 ---
 
 The [October BangPypers talks](http://www.meetup.com/BangPypers/events/224054839/) happened at the [Belong](https://belong.co) in Jeevan Bhima Nagar. 50 - 60 people attended the event on a loooong weekend, total RSVP was 96! Talks commenced at 10:15 AM.

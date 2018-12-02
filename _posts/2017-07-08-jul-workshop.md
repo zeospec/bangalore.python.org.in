@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: Talks - July, 2017
-tags: [meetup, talks, workshop]
+layout: post
+title:  "Talks – July, 2017"
+author: bangpypers
+tags: [bangpypers]
+description: "Talks – July, 2017"
+categories: [ meetup, talks, workshop ]
+image:
+featured: false
+hidden: false
 ---
 
 For July's session, we started with a ["Machine Learning Basics"](https://www.meetup.com/BangPypers/events/240151299/) theme. The venue was Treebo Hotels, and there were 4 speakers. The talks were each of 40-minutes. 

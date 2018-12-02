@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: April 2016 Dev Sprint Report
-tags: [meetup, devsprint]
+layout: post
+title:  "April 2016 Dev Sprint Report"
+author: bangpypers
+tags: [bangpypers]
+description: "April 2016 Dev Sprint Report"
+categories: [ meetup, devsprint ]
+image:
+featured: false
+hidden: false
 ---
 
 [April BangPypers Dev Sprint](http://www.meetup.com/BangPypers/events/225109023/) happened at the [Knowlarity][https://www.knowlarity.com] office in M. G. Road.
