@@ -7,7 +7,7 @@ favicon: '/assets/images/logo.jpg'
 og_img: '/assets/images/logo_og.jpg'
 footer_img: '/assets/images/logo_footer.jpg'
 baseurl: ""
-url: "http://bangalore.python.org.in/"
+url: ""
 # google_analytics: ''
 # disqus: ''
 # mailchimp-list: 'https://rotaract3190.us19.list-manage.com/subscribe/post?u=ec2994fa04b0856e3913be84e&amp;id=7eb0482b27'
