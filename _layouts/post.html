@@ -17,7 +17,7 @@ post_class: post-template
             
             
             <!-- Post -->        
-            {% assign author = site.data.clubs[page.author] %}
+            {% assign author = site.data.authors[page.author] %}
             
             <div class="col-md-9 flex-first flex-md-unordered">
                 <div class="mainheading">
@@ -74,23 +74,23 @@ post_class: post-template
                 <!-- End Categories -->
                 
 
-                <!-- Clubs -->
+                <!-- Authors -->
                 {% if page.tags.size > 1 %}
 
                 <p>
                     <small>
-                        <span class="post-date">Partner Club{% if page.tags.size > 2 %}s{% endif %}</span>
+                        <span class="post-date">Co-Author{% if page.tags.size > 2 %}s{% endif %}</span>
                     </small>
                 </p> 
 
                 <div class="after-post-tags">
                     <ul class="tags">
-                        {% assign partnerclubs = page.tags | sort %}
-                        {% for pclub in partnerclubs %}
-                        {% if page.author != pclub %}
-                        {% assign club = site.data.clubs[pclub] %}
+                        {% assign authors = page.tags | sort %}
+                        {% for author in authors %}
+                        {% if page.author != author %}
+                        {% assign co-author = site.data.authors[author] %}
                         <li>
-                            <a target="_blank" href="{{ site.baseurl }}/clubs/{{ pclub }}/">{{ club.display_name }}</a>
+                            <a target="_blank" href="{{ site.baseurl }}/authors/{{ author }}/">{{ co-author.display_name }}</a>
                         </li>
                         {% endif %}
                         {% endfor %}
@@ -98,7 +98,7 @@ post_class: post-template
                 </div>
 
                 {% endif %}
-                <!-- End Clubs -->
+                <!-- End Authors -->
 
                 <!-- Prev/Next -->
                 <div class="row PageNavigation d-flex justify-content-between font-weight-bold">

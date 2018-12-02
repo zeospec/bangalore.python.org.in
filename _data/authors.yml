@@ -14,3 +14,11 @@ zeospec:
   web: 
   twitter: https://twitter.com/zeospec/
   description: "ZeoSpec - Community explorer"
+test:
+  name: test
+  display_name: test
+  logo: /assets/images/authors/zeospec.jpg
+  email:  
+  web: 
+  twitter: https://twitter.com/zeospec/
+  description: "ZeoSpec - Community explorer"
