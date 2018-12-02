@@ -1,21 +1,61 @@
-{% extends 'layout.html' %}
+---
+layout: default
+title: Home
+---
 
+{% if page.url == "/" %}
 
-{% block breadcrumbs %}
-    <ul id="breadcrumbs">
-        <li>Blog</li>
-    </ul>
-{% endblock %}
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Featured</span></h2>
+    </div>
+    <div class="row">
+        
+    {% for post in site.posts %}
 
-{% block content %}
-    {% for post in posts %}
-        <div class="item-header item-header-posts">
-            <h1><a href={{ get_url(post.url) }}>{{ post.title }}</a></h1>
-            <div class="dateline">{{ post.date }}{% if post.tags %} <span>&raquo;</span> {% for tag in post.tags %}<a href="{{ get_url(tags[tag].url) }}">{{ tag }}</a>{% if not loop.last %}, {% endif %}{% endfor %}{% endif %}</div>
+        {% if post.featured == true %}
 
-        <div class="item-body">
-            {{ post.content }}
-        </div>
-        </div>
+            {% include featuredbox.html %}
+
+        {% endif %} 
+
     {% endfor %}
-{% endblock %}
+        
+    </div>
+</section>
+
+{% endif %}
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+    
+    <div class="section-title">
+        
+        <h2><span>All Listings</span></h2>
+        
+    </div>
+    
+    <div class="row listrecent">
+
+        {% for post in paginator.posts %}
+
+               {% include postbox.html %}          
+
+        {% endfor %}
+        
+    </div>
+    
+</section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
+
