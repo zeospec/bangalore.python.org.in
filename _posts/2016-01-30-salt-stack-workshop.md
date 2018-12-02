@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: January 2016 Salt stack workshop report
-tags: [meetup, workshop]
+layout: post
+title:  "January 2016 Salt stack workshop report"
+author: bangpypers
+tags: [bangpypers]
+description: "January 2016 Salt stack workshop report"
+categories: [ meetup, workshop ]
+image:
+featured: false
+hidden: false
 ---
 
 We kickstarted this year's meetup with  [salt stack workshop](http://www.meetup.com/BangPypers/events/222071834/) at [mavenhive technologies](http://www.mavenhive.in/). There were 23 participants.

@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: December 2014 Dev Sprint report
-tags: [meetup, devsprint]
+layout: post
+title:  "December 2014 Dev Sprint report"
+author: bangpypers
+tags: [bangpypers]
+description: "December 2014 Dev Sprint report"
+categories: [ meetup, devsprint ]
+image:
+featured: false
+hidden: false
 ---
 
 The [December BangPypers meetup](http://www.meetup.com/BangPypers/events/160108032/) happened at the [APIGee][] office in Kormanagala. This time we didn't have workshops or talks but dev sprint.

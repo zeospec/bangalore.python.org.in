@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: Machine Learning Workshop - July 2016
-tags: [meetup, workshop]
+layout: post
+title:  "Machine Learning Workshop – July 2016"
+author: bangpypers
+tags: [bangpypers]
+description: "Machine Learning Workshop – July 2016"
+categories: [ meetup, workshop ]
+image:
+featured: false
+hidden: false
 ---
 
 The [July BangPypers workshop][] happened at the [AdNear][] office in Koramangala. More than 80 people attended the workshop.

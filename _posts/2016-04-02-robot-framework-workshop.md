@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: Robot Framework Workshop - April 2016
-tags: [meetup, workshop]
+layout: post
+title:  "Robot Framework Workshop – April 2016"
+author: bangpypers
+tags: [bangpypers]
+description: "Robot Framework Workshop – April 2016"
+categories: [ meetup, workshop ]
+image:
+featured: false
+hidden: false
 ---
 
 [Robot framework workshop](http://www.meetup.com/BangPypers/events/229041862/) at [GreenBubbles](http://greenbubbles.in/) startup services. 30 people attended the workshop.

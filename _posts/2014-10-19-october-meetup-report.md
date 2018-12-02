@@ -1,10 +1,16 @@
 ---
-layout: post.html
-title: October 2014 Meetup report
-tags: [meetup]
+layout: post
+title:  "October 2014 Meetup report"
+author: bangpypers
+tags: [bangpypers]
+description: "October 2014 Meetup report"
+categories: [ meetup ]
+image:
+featured: false
+hidden: false
 ---
 
-The [October Bangpypers meetup](http://www.meetup.com/BangPypers/events/125797652/) happened at the InMobi office near Bellandur. [Sanketsaurav][] facilitated the workshop. [Krace][] helped the meetup as a volunteer.
+The [October Bangpypers meetup](https://www.meetup.com/BangPypers/events/125797652/) happened at the InMobi office near Bellandur. [Sanketsaurav][] facilitated the workshop. [Krace][] helped the meetup as a volunteer.
 
 The workshop was focussed on build REST Service using [TastyPie](https://django-tastypie.readthedocs.org/en/latest/). The workshop started at 10.25 and wen t to till 1.45. Sanket explained all the concepts required to build REST service in depth with examples.
 

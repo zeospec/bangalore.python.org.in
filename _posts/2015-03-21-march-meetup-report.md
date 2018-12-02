@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: March 2015 Meetup report
-tags: [meetup]
+layout: post
+title:  "March 2015 Meetup report"
+author: bangpypers
+tags: [bangpypers]
+description: "March 2015 Meetup report"
+categories: [ meetup ]
+image:
+featured: false
+hidden: false
 ---
 
 The [March BangPypers meetup](http://www.meetup.com/BangPypers/events/177630452/) happened at ZeOmega in Banasvadi. This time we had a total of 2 talks from 10:30AM to 2.00PM.

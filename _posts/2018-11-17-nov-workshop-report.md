@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: Code Walkthrough - November 2018
-tags: [meetup, talks, workshop, codewalkthrough]
+layout: post
+title:  "Code Walkthrough - November 2018"
+author: bangpypers
+tags: [bangpypers]
+description: "Code Walkthrough - November 2018"
+categories: [ meetup, talks, workshop, codewalkthrough ]
+image: 
+featured: false
+hidden: false
 ---
 
 For November 2018's session, we planned to introduce something new into our range of things we do. Code Walkthrough, a session where the speaker takes us through the source of a popular library. The meetup started at 10:40AM, with a good decent turned out. OpenEBS sponsored the food and also gave us the venue to host the event. The speaker for the talk was Saptak Sengupta. The session was attended by 53 people.

@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: January 2015 Meetup report
-tags: [meetup]
+layout: post
+title:  "January 2015 Meetup report"
+author: bangpypers
+tags: [bangpypers]
+description: "January 2015 Meetup report"
+categories: [ meetup ]
+image:
+featured: false
+hidden: false
 ---
 
 The [January Bangpypers meetup](http://www.meetup.com/BangPypers/events/165153532/) happened at the Goibibo office near Trinity Metro

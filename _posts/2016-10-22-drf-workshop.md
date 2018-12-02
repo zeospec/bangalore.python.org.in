@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: Django REST Framework workshop - BangPypers October Meetup
-tags: [meetup, workshop]
+layout: post
+title:  "Django REST Framework workshop – Bangalore October Meetup"
+author: bangpypers
+tags: [bangpypers]
+description: "Django REST Framework workshop – Bangalore October Meetup"
+categories: [ meetup, workshop ]
+image:
+featured: false
+hidden: false
 ---
 
 The [October Bangpypers meetup](https://www.meetup.com/BangPypers/events/234328117/) was held at the [BHIVE Workspace](http://bhiveworkspace.com/) at HSR layout. 50+ people turned up for the event.

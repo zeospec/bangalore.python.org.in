@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: IoT Workshop - Mar, 2017
-tags: [meetup, workshop]
+layout: post
+title:  "IoT Workshop – Mar, 2017"
+author: bangpypers
+tags: [bangpypers]
+description: "IoT Workshop – Mar, 2017"
+categories: [ meetup, workshop ]
+image:
+featured: false
+hidden: false
 ---
 
 For this month (March), we conducted an IOT workshop hosted and presented by [Sudhir Rawat](https://twitter.com/rawatsudhir) and Zeeshan at Microsoft.

@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: Feburary 2015 Meetup report
-tags: [meetup]
+layout: post
+title:  "Feburary 2015 Meetup report"
+author: bangpypers
+tags: [bangpypers]
+description: "Feburary 2015 Meetup report"
+categories: [ meetup ]
+image:
+featured: false
+hidden: false
 ---
 
 The [Feburary Bangpypers meetup](http://www.meetup.com/BangPypers/events/177630412/) happened at the IBM accelerator, EGL, Domlur. This time we had a total of 3 talks from 10:30AM to 12:45PM.

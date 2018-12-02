@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: September 2015 workshop report
-tags: [meetup, workshop]
+layout: post
+title:  "September 2015 workshop report"
+author: bangpypers
+tags: [bangpypers]
+description: "September 2015 workshop report"
+categories: [ meetup, workshop ]
+image:
+featured: false
+hidden: false
 ---
 
 The [September BangPypers workshop](http://www.meetup.com/BangPypers/events/210041222/) happened at the [Akamai Technologies](http://www.akamai.com/) office near Bellandur.

@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: Device Interfacing Workshop - July, 2017
-tags: [meetup, talks, workshop]
+layout: post
+title:  "Device Interfacing Workshop – July, 2017"
+author: bangpypers
+tags: [bangpypers]
+description: "Device Interfacing Workshop – July, 2017"
+categories: [ meetup, talks, workshop ]
+image:
+featured: false
+hidden: false
 ---
 
 BangPypers organized a full-day workshop on 15/July/2017, titled, 'Device interfacing with Python'. Workshop was conducted by folks from Zilogic Systems, Chennai -- Vijay Kumar, Deepak, Babusubashchandar, and Rashid Muhammed -- and the venue for the workshop was the corporate office of Treebo Hotels. Intent of the workshop was to initiate the participants on how to use Python programming language to interface with embedded hardware.

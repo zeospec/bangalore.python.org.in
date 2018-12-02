@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: August 2015 workshop report
-tags: [meetup, talks]
+layout: post
+title:  "August 2015 workshop report"
+author: bangpypers
+tags: [bangpypers]
+description: "August 2015 workshop report"
+categories: [ meetup, talks ]
+image:
+featured: false
+hidden: false
 ---
 
 We had [workshop](http://www.meetup.com/BangPypers/events/223389765/) on [salt stack](http://docs.saltstack.com/en/latest/contents.html) at RedHat office. Workshop was attended by 30 people.

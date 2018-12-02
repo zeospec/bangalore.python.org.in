@@ -1,12 +1,18 @@
 ---
-layout: post.html
-title: January 2014 Meetup report
-tags: [meetup]
+layout: post
+title:  "January 2014 Meetup report"
+author: bangpypers
+tags: [bangpypers]
+description: "January 2014 Meetup report"
+categories: [ meetup ]
+image:
+featured: false
+hidden: false
 ---
 
 ### Django unchained!
 
-The [January Bangpypers](http://www.meetup.com/BangPypers/events/125797552/) meetup happened at the [Apigee office](http://goo.gl/maps/yFcov). The organizers, as a part of trying to improvise and improve the quality of the meetups, decided to do a full day session on using the Python Django framework. The trio of [Siva][], [Sayan][] and [Haris][] were burdened with the responsibility of preparing the content and delivering the workshop. Siva put forward the idea of doing the tutorial in a step by step manner. He created the tutorial content on GitHub with a branch for each step. Find the repo [here](https://github.com/sivaa/django-workshop). [Kartik] accompanied the team to help out the participants.
+The [January Bangpypers](https://www.meetup.com/BangPypers/events/125797552/) meetup happened at the [Apigee office](https://goo.gl/maps/yFcov). The organizers, as a part of trying to improvise and improve the quality of the meetups, decided to do a full day session on using the Python Django framework. The trio of [Siva][], [Sayan][] and [Haris][] were burdened with the responsibility of preparing the content and delivering the workshop. Siva put forward the idea of doing the tutorial in a step by step manner. He created the tutorial content on GitHub with a branch for each step. Find the repo [here](https://github.com/sivaa/django-workshop). [Kartik] accompanied the team to help out the participants.
 
 Workshop
 ---
@@ -33,7 +39,7 @@ By this time, the audience were really interested to know more about and around 
 Questions regarding flask v/s Django, Django ORM, static files, templating engine, deployment, learning curve and a lot more were asked and discussed. The meeting was adjourned at 5PM and everyone parted to their own ways after exchanging good byes.
 
 
-[Apigee]: http://apigee.com/about/
+[Apigee]: https://apigee.com/about/
 [Kracekumar]: https://twitter.com/kracetheking
 [Sayan]: https://twitter.com/chowdhury_sayan
 [Siva]: https://twitter.com/sivaa_in

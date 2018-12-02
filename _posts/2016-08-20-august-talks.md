@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: Talks About Automation - 2016 August Meetup
-tags: [meetup, talks]
+layout: post
+title:  "Talks About Automatic – 2016 August Meetup"
+author: bangpypers
+tags: [bangpypers]
+description: "Talks About Automatic – 2016 August Meetup"
+categories: [ meetup, talks ]
+image:
+featured: false
+hidden: false
 ---
 
 [August meetup](http://www.meetup.com/BangPypers/events/225109014/) happened at the [Calm.io](https://calm.io/) office. 60 people attended the event. For the first time, all talks were arranged in Automation theme. Thanks for the warm response from the audience and enthusiastic proposals from speakers.

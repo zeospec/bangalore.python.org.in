@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: Algorithms Workshop - Mar, 2017
-tags: [meetup, talks, workshop]
+layout: post
+title:  "Algorithms Workshop – Mar, 2017"
+author: bangpypers
+tags: [bangpypers]
+description: "Algorithms Workshop – Mar, 2017"
+categories: [ meetup, talks, workshop ]
+image:
+featured: false
+hidden: false
 ---
 
 For the second session in this month (March), we decided to conduct a beginners' workshop on Algorithms implemented in Python and this was hosted by Karthika at [ThoughtFactory](https://www.axisbank.com/thoughtfactory/index.html) and the speaker was Ankur (co-founder, [Numerate Labs](http://numeratelabs.com/)). An afternoon session was conducted for this week as well and it started post-mic and projector logistics around 2.30 PM.
