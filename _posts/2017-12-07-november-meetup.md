@@ -20,7 +20,7 @@ We had mix of audience  beginners, intermediate, advanced.
 
 
 <iframe frameborder="0" allowfullscreen="" width="560" height="315" 
-   src="http://www.youtube.com/embed/lING02S6AAc?wmode=transparent&showinfo=0&rel=0&autohide=1&autoplay=0"
+   src="https://www.youtube.com/embed/lING02S6AAc?wmode=transparent&showinfo=0&rel=0&autohide=1&autoplay=0"
    frameborder="0" allowfullscreen>
 </iframe>
    
@@ -28,7 +28,7 @@ There was another talk by [Nandhakumar][] about [django_social_auth][] experienc
 
 
 <iframe frameborder="0" width="560" height="315" allowfullscreen="" 
-   src="http://www.youtube.com/embed/0ek8W2CfdAk?wmode=transparent&showinfo=0&rel=0&autohide=1&autoplay=0" frameborder="0" allowfullscreen>
+   src="https://www.youtube.com/embed/0ek8W2CfdAk?wmode=transparent&showinfo=0&rel=0&autohide=1&autoplay=0" frameborder="0" allowfullscreen>
 </iframe>
 
 
@@ -36,9 +36,9 @@ There was another talk by [Nandhakumar][] about [django_social_auth][] experienc
 
 [Baiju]: https://www.facebook.com/baijum
 [Introduction]: http://www.youtube.com/watch?v=lING02S6AAc
-[channel]: http://www.youtube.com/playlist?list=PL6GW05BfqWIfjFsoxJTnE4g7ddFkO5ZtG
-[Nandhakumar]: http://www.meetup.com/BangPypers/members/57253672/
-[django_social_auth]: http://pypi.python.org/pypi/django-social-auth 
-[video]: http://www.youtube.com/watch?v=0ek8W2CfdAk&list=PL6GW05BfqWIfjFsoxJTnE4g7ddFkO5ZtG&index=2
-[Bangpypers]: http://www.youtube.com/playlist?list=PL6GW05BfqWIfjFsoxJTnE4g7ddFkO5ZtG
+[channel]: https://www.youtube.com/playlist?list=PL6GW05BfqWIfjFsoxJTnE4g7ddFkO5ZtG
+[Nandhakumar]: https://www.meetup.com/BangPypers/members/57253672/
+[django_social_auth]: https://pypi.python.org/pypi/django-social-auth 
+[video]: https://www.youtube.com/watch?v=0ek8W2CfdAk&list=PL6GW05BfqWIfjFsoxJTnE4g7ddFkO5ZtG&index=2
+[Bangpypers]: https://www.youtube.com/playlist?list=PL6GW05BfqWIfjFsoxJTnE4g7ddFkO5ZtG
 
