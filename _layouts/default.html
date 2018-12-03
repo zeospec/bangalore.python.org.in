@@ -122,6 +122,14 @@
                                         <a class="nav-link" href="/about/">About</a>
                                     </li>
                                     
+                                    {% if page.url == "/library/" %}
+                                <li class="nav-item active">
+                                    {% else %}
+                                    <li class="nav-item">
+                                        {% endif %}
+                                        <a class="nav-link" href="/library/">Library</a>
+                                    </li>
+
                                     <li class="nav-item">
                                         <a target="_blank" rel="noopener noreferrer" class="nav-link" href="https://mail.python.org/mailman/listinfo/bangpypers">Mailing List</a>
                                     </li>
@@ -186,6 +194,10 @@
                                                         <li class="nav-item"style="display:inline; margin: 2em;">
                                                             <a  href="/about/">About</a>
                                                         </li>
+
+                                                        <li class="nav-item"style="display:inline; margin: 2em;">
+                                                            <a href="/library/">Library</a>
+                                                        </li>
                                                         
                                                         <li class="nav-item"style="display:inline; margin: 2em;">
                                                             <a target="_blank" rel="noopener noreferrer" href="https://mail.python.org/mailman/listinfo/bangpypers">Mailing List</a>
@@ -194,14 +206,7 @@
                                                         <li class="nav-item"style="display:inline; margin: 2em;">
                                                             <a target="_blank" rel="noopener noreferrer" href="https://www.meetup.com/BangPypers/">Meetup <i class="fab fa-meetup"></i></a>
                                                         </li>
-                                                        
-                                                        <li class="nav-item"style="display:inline; margin: 2em;">
-                                                            <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/bangpypers"><i class="fab fa-facebook-f"></i></a>
-                                                        </li>
-                                                        
-                                                        <li class="nav-item"style="display:inline; margin: 2em;">
-                                                            <a target="_blank"  rel="noopener noreferrer" href="https://twitter.com/__bangpypers__"><i class="fab fa-twitter"></i></a>
-                                                        </li>
+
                                                     </ul>
                                                     
                                                 </div>
@@ -245,7 +250,7 @@
                                                             Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
                                                         </div>
                                                         <div class="col-md-6 col-sm-6 text-center text-lg-right">    
-                                                            <a target="_blank" rel="noopener noreferrer" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish Theme</a> modified by <a target="_blank" rel="noopener noreferrer" href="https://zeospec.com/">ZeoSpec</a>
+                                                            <a target="_blank" rel="noopener noreferrer" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish Theme</a> rewritten by <a target="_blank" rel="noopener noreferrer" href="https://zeospec.com/">ZeoSpec</a>
                                                         </div>
                                                     </div>
                                                 </div>
