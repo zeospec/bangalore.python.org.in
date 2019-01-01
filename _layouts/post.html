@@ -29,7 +29,7 @@ post_class: post-template
                             <img class="author-thumb" src="{% if author.logo %}{% if author.logo contains "://" %}{{ author.logo }}{% else %}{{ author.logo | absolute_url }}{% endif %}{% else %}{{ site.og_img | prepend: site.baseurl | prepend: site.url }}{% endif %}" alt="{{ author.display_name }}">
                         </div>
                         <div class="col-md-10">
-                            <a target="_blank" class="link-dark" href="{{ site.baseurl }}/authors/{{ page.author }}/">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+                            <a class="link-dark" href="{{ site.baseurl }}/authors/{{ page.author }}/">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
                             <span class="author-description">{{ author.description }}</span>						
                         </div> 
                     </div>				
@@ -90,7 +90,7 @@ post_class: post-template
                         {% if page.author != author %}
                         {% assign co-author = site.data.authors[author] %}
                         <li>
-                            <a target="_blank" href="{{ site.baseurl }}/authors/{{ author }}/">{{ co-author.display_name }}</a>
+                            <a href="{{ site.baseurl }}/authors/{{ author }}/">{{ co-author.display_name }}</a>
                         </li>
                         {% endif %}
                         {% endfor %}
