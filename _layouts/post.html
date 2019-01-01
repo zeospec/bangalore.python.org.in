@@ -26,7 +26,7 @@ post_class: post-template
                     {% if page.author %}				
                     <div class="row post-top-meta">
                         <div class="col-md-2">
-                            <img class="author-thumb" src="{% if author.logo %}{% if author.logo contains "://" %}{{ author.logo }}{% else %}{{ author.logo | absolute_url }}{% endif %}{% else %}{{ site.og_img | prepend: site.baseurl | prepend: site.url }}{% endif %}" alt="{{ author.display_name }}">
+                            <a href="{{ site.baseurl }}/authors/{{ page.author }}/"><img class="author-thumb" src="{% if author.logo %}{% if author.logo contains "://" %}{{ author.logo }}{% else %}{{ author.logo | absolute_url }}{% endif %}{% else %}{{ site.og_img | prepend: site.baseurl | prepend: site.url }}{% endif %}" alt="{{ author.display_name }}"></a>
                         </div>
                         <div class="col-md-10">
                             <a class="link-dark" href="{{ site.baseurl }}/authors/{{ page.author }}/">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
