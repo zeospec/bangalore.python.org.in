@@ -6,7 +6,7 @@ logo: '/assets/images/logo.jpg'
 favicon: '/assets/images/logo.jpg'
 og_img: '/assets/images/logo_og.jpg'
 footer_img: '/assets/images/logo_footer.jpg'
-baseurl: ""
+baseurl: "https://bangalore.python.org.in"
 url: ""
 # google_analytics: ''
 # disqus: ''
@@ -36,3 +36,5 @@ paginate_path: /page:num/
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title/
 highlighter: rouge
+
+exclude: [vendor]
