@@ -41,7 +41,7 @@ post_class: post-template
                 </div>
                 
                 <!-- Post Featured Image -->
-                {% if page.image %}<img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% endif %}" alt="{{ post.title }}">{% endif %}
+                <img class="featured-image img-fluid" src="{% if page.image %}{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% endif %}{% else %}{{ site.post_default_img | prepend: site.baseurl | prepend: site.url }}{% endif %}" alt="{{ post.title }}">
                 <!-- {% if page.image %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %} -->
                 <!-- End Featured Image -->
                 
