@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: Pandas Workshop - November 2016
-tags: [meetup, workshop]
+layout: post
+title:  "Pandas Workshop – November 2016"
+author: bangpypers
+tags: [bangpypers]
+description: "Pandas Workshop – November 2016"
+categories: [ meetup, workshop ]
+image:
+featured: false
+hidden: false
 ---
 
 The [November BangPypers workshop](http://www.meetup.com/BangPypers/events/235076152/) happened at the [Clear Tax](http://cleartax.in/) office in Hongasandra.

@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: August 2015 meetup report
-tags: [meetup, talks]
+layout: post
+title:  "August 2015 meetup report"
+author: bangpypers
+tags: [bangpypers]
+description: "August 2015 meetup report"
+categories: [ meetup, talks ]
+image:
+featured: false
+hidden: false
 ---
 
 The [August BangPypers talks](http://www.meetup.com/BangPypers/events/197867222/) happened at the [Blue Jeans](https://bluejeans.com/) in Prestige tech park. Nearly 50 people attended the event!

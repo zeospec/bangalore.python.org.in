@@ -1,10 +1,16 @@
 ---
-layout: post.html
-title: April 2014 Meetup report
-tags: [meetup]
+layout: post
+title:  "April 2014 Meetup report"
+author: bangpypers
+tags: [bangpypers]
+description: "April 2014 Meetup report"
+categories: [ meetup ]
+image:
+featured: false
+hidden: false
 ---
 
-51 Puys! The greatest turnout yet. There was not event one chair left unoccupied in the hall. The enthusiasm of such a large crowd does give us all a hint about the demand in the industry for beginner level Python training. With the organizer, [Kracekumar][] himself facilitating the workshop, the in-depth beginner level session was received by the crowd with much appreciation. The [April Bangpypers meetup](http://www.meetup.com/BangPypers/events/171450392/) happened at the Akamai office near Bellandur. [Kartik][], [Haris][] and [Sayan][] came forward as volunteers. The session started at 10:30AM and concluded around 6:00PM.
+51 Puys! The greatest turnout yet. There was not event one chair left unoccupied in the hall. The enthusiasm of such a large crowd does give us all a hint about the demand in the industry for beginner level Python training. With the organizer, [Kracekumar][] himself facilitating the workshop, the in-depth beginner level session was received by the crowd with much appreciation. The [April Bangpypers meetup](https://www.meetup.com/BangPypers/events/171450392/) happened at the Akamai office near Bellandur. [Kartik][], [Haris][] and [Sayan][] came forward as volunteers. The session started at 10:30AM and concluded around 6:00PM.
 
 Kicking off the workshop by getting to know the crowd better, Krace quickly got into the exercises, thereby getting everyone hands-on. The workshop was structured as a series of exercises in folder, along with their respective solutions in another. The material was shared in advance with the audience. The instructor went over each exercise (which were separated into individual files) by first demoing the concept using the Python interpreter and then letting the audience try it out within the file. You can find the course content comprising of the exercises and solutions [here](https://github.com/kracekumar/pythonbyexamplestutorial).
 

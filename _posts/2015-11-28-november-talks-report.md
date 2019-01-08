@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: November talks 2015 meetup report
-tags: [meetup, talks]
+layout: post
+title:  "November talks 2015 meetup report"
+author: bangpypers
+tags: [bangpypers]
+description: "November talks 2015 meetup report"
+categories: [ meetup, talks ]
+image:
+featured: false
+hidden: false
 ---
 
 The [November BangPypers talks](http://www.meetup.com/BangPypers/events/226312862/) happened at the [Aerospike](http://aerospike.com) in Ejipura. 35 people attended the event. We had 4 talks, commenced at 10:30 AM.

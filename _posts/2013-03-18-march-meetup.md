@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: March Meetup 
-tags: [meetup]
+layout: post
+title:  "March Meetup"
+author: bangpypers
+tags: [bangpypers]
+description: "March Meetup"
+categories: [ meetup ]
+image:
+featured: false
+hidden: false
 ---
 
 
@@ -27,5 +33,5 @@ Contact
 
 
 
-[FSMK]: http://www.fsmk.org/
+[FSMK]: https://www.fsmk.org/
 [Siva]: https://www.facebook.com/sivasubramaniam?fref=ts

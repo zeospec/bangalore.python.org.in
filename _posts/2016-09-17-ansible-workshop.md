@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: Ansible Workshop - BangPypers September Meetup
-tags: [meetup, workshop]
+layout: post
+title:  "Anisible Workshop – BangPypers September Meetup"
+author: bangpypers
+tags: [bangpypers]
+description: "Anisible Workshop – BangPypers September Meetup"
+categories: [ meetup, workshop ]
+image:
+featured: false
+hidden: false
 ---
 
 [September Bangpypers meetup](http://www.meetup.com/BangPypers/events/225109014/) happened at [RedHat][] office in Bannerghata road. 31 people attended the event.

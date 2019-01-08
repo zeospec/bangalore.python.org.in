@@ -1,0 +1,40 @@
+# Site
+name: "BangPypers"
+description: "The Bangalore Python User Group"
+meta_description: "BangPypers – The Bangalore Python User Group"
+logo: '/assets/images/logo.jpg'
+favicon: '/assets/images/logo.jpg'
+og_img: '/assets/images/logo_og.jpg'
+footer_img: '/assets/images/logo_footer.jpg'
+baseurl: "https://bangalore.python.org.in"
+url: ""
+# google_analytics: ''
+# disqus: ''
+# mailchimp-list: ''
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled: all
+  layout: archive
+  permalinks:
+    category: '/archives/:name/'
+    year: '/blog/:year/'
+    month: '/blog/:year/:month/'
+    day: '/blog/:year/:month/:day/'
+    tag: '/authors/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+
+# Other
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+highlighter: rouge
+
+exclude: [vendor]

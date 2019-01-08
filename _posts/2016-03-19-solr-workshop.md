@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: March 2016 BangPypers Workshop Report
-tags: [meetup, workshop]
+layout: post
+title:  "March 2016 BangPypers Workshop Report"
+author: bangpypers
+tags: [bangpypers]
+description: "March 2016 BangPypers Workshop Report"
+categories: [ meetup, workshop ]
+image:
+featured: false
+hidden: false
 ---
 
 [March Bangpypers meetup](http://www.meetup.com/BangPypers/events/225109027/) happened at the [calm.io](http://calm.io). 30 people attended the meetup. Session started around 10:30.

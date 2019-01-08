@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: May 2015 Dev Sprint report
-tags: [meetup, devsprint]
+layout: post
+title:  "May 2015 Dev Sprint report"
+author: bangpypers
+tags: [bangpypers]
+description: "May 2015 Dev Sprint report"
+categories: [ meetup ]
+image:
+featured: false
+hidden: false
 ---
 
 The [May BangPypers Dev Sprint](http://www.meetup.com/BangPypers/events/183466652/) happened at the [ThoughtWorks][] office in Kormanagala.

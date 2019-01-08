@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: Feb 2016 bangpypers talk report
-tags: [meetup, talks]
+layout: post
+title:  "Feb 2016 bangpypers talk report"
+author: bangpypers
+tags: [bangpypers]
+description: "Feb 2016 bangpypers talk report"
+categories: [ meetup, talks ]
+image:
+featured: false
+hidden: false
 ---
 
 The [February BangPypers talks](http://www.meetup.com/BangPypers/events/225109029/) happened at the [Grofers](https://www.grofers.com/), attended by 70 participants. This is the first time Grofers hosted us.

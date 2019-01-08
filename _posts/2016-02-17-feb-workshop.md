@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: Feb 2016 bangpypers workshop
-tags: [meetup, workshop]
+layout: post
+title:  "Feb 2016 bangpypers workshop"
+author: bangpypers
+tags: [bangpypers]
+description: "Feb 2016 bangpypers workshop"
+categories: [ meetup, workshop ]
+image:
+featured: false
+hidden: false
 ---
 
 The [February BangPypers workshop](http://www.meetup.com/BangPypers/events/228323195/) was hosted by  [Sabre](http://www.sabre.com/), attended by 60 participants. This was a joint meetup organized by BangPypers and [Bangalore Operations Research Meetup](http://www.meetup.com/Bangalore-Operations-Research-Meetup/events/228727411/).

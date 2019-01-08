@@ -1,4 +1,2 @@
-bangalore.python.org.in
-=======================
-
-bangalore.python.org.in website content
+# bangalore.python.org.in
+Source code for Bangalore Python user group. Read blog at  http://bangalore.python.org.in

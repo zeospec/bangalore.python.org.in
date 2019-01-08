@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: December 2015 Dev Sprint report
-tags: [meetup, devsprint]
+layout: post
+title:  "December 2015 Dev Spring report"
+author: bangpypers
+tags: [bangpypers]
+description: "December 2015 Dev Spring report"
+categories: [ meetup, devsprint ]
+image:
+featured: false
+hidden: false
 ---
 
 The [December BangPypers Dev Sprint](http://www.meetup.com/BangPypers/events/225059174/) happened at the [AdNear][https://near.co/] office in Kormanagala.

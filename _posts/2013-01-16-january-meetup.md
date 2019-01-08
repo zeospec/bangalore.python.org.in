@@ -1,7 +1,13 @@
 ---
-layout: post.html
-title: January Bangpypers Meetup
-tags: [meetup]
+layout: post
+title:  "January Bangpypers Meetup"
+author: bangpypers
+tags: [bangpypers]
+description: "BangPypers January 2013 Meetup"
+categories: [ meetup ]
+image:
+featured: false
+hidden: false
 ---
 
 January BangPypers meetup will be held on 19th, January in CIS, Domlur. [RSVP][]
@@ -25,7 +31,7 @@ Meetup will start at 3:00 PM.
 After the meetup, interested people can join [aaronsw memorial hacknight][hacknight].
 
 [web.py]: http://webpy.org/
-[Anand]: http://anandology.com/
-[RSVP]: http://www.meetup.com/BangPypers/events/77829272/
-[hacknight]: http://hacknight.in/hasgeek/aaronsw-memorial
+[Anand]: https://anandology.com/
+[RSVP]: https://www.meetup.com/BangPypers/events/77829272/
+[hacknight]: https://hacknight.in/hasgeek/aaronsw-memorial
 
