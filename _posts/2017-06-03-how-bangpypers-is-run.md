@@ -6,7 +6,7 @@ tags: [bangpypers]
 description: "How BangPypers meetup is run"
 categories: [ working ]
 image:
-featured: false
+featured: true
 hidden: false
 ---
 
@@ -16,7 +16,7 @@ hidden: false
 
 <img src="https://pbs.twimg.com/media/CSECd__UwAAlOl8.jpg" height="400" width="500">
 
-</br/>
+<br/>
 
 [BangPypers](https://www.quora.com/Who-decided-the-name-BangPypers-for-the-Bangalore-Python-User-Group) is a [twelve year](https://www.swaroopch.com/2005/01/22/first-bangalore-python-meetup/) old group started by Anand B Pillai. For Half a decade [meetup group](https://www.meetup.com/BangPypers/) is the anchor for organizing Python meetups in Bangalore. During the period, co-organizer has devised working for the team.
 
