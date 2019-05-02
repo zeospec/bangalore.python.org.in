@@ -1,3 +1,5 @@
+# twitter is used for the follow add any link that you want the user to go to.
+
 bangpypers:
   name: BangPypers
   display_name: BangPypers
@@ -14,4 +16,3 @@ zeospec:
   web: https://zeospec.com
   twitter: https://twitter.com/zeospec/
   description: "ZeoSpec - Community at Heart"
-

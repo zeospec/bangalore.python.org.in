@@ -25,16 +25,55 @@ post_class: post-template
                     <!-- Author Box -->
                     {% if page.author %}				
                     <div class="row post-top-meta">
-                        <div class="col-md-2">
+                        <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
                             <a href="{{ site.baseurl }}/authors/{{ page.author }}/"><img class="author-thumb" src="{% if author.logo %}{% if author.logo contains "://" %}{{ author.logo }}{% else %}{{ author.logo | prepend: site.baseurl | prepend: site.url }}{% endif %}{% else %}{{ site.og_img | prepend: site.baseurl | prepend: site.url }}{% endif %}" alt="{{ author.display_name }}"></a>
                         </div>
-                        <div class="col-md-10">
+                        <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
                             <a class="link-dark" href="{{ site.baseurl }}/authors/{{ page.author }}/">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
                             <span class="author-description">{{ author.description }}</span>						
                         </div> 
                     </div>				
                     {% endif %}
                     
+
+                <!-- Authors -->
+                {% if page.tags.size > 1 %}
+
+                <p>
+                    <small>
+                        <span class="post-date">Co-Author{% if page.tags.size > 2 %}s{% endif %}</span>
+                    </small>
+                </p> 
+
+                <div class="row listrecent">
+
+                    {% assign authors = page.tags | sort %}
+                    {% for author in authors %}
+                    {% if page.author != author %}
+                    {% assign co-author = site.data.authors[author] %}
+                    
+                    <div class="col-lg-6 col-md-6 mb-30px card-group">
+                        <div class="card h-100">
+                            <div class="card-footer bg-white">
+                                <div class="wrapfooter">
+                                    <span class="meta-footer-thumb">
+                                        <a href="{{ site.baseurl }}/authors/{{ author }}/"><img class="author-thumb" src="{% if co-author.logo %}{% if co-author.logo contains "://" %}{{ co-author.logo }}{% else %}{{ co-author.logo | absolute_url }}{% endif %}{% else %}{{ site.default_co-author_logo | prepend: site.baseurl | prepend: site.url }}{% endif %}" alt="{{ co-author.display_name }}"></a>
+                                    </span>                
+                                    <span class="author-meta">
+                                        <span class="post-name"><a href="{{ site.baseurl }}/authors/{{ author }}/">{{ co-author.display_name }}</a></span><br/>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %}
+                    {% endfor %}
+                    
+                </div>
+
+                {% endif %}
+                <!-- End Authors -->
+
                     <!-- Post Title -->
                     <h1 class="posttitle">{{ page.title }}</h1> 
                     
@@ -72,33 +111,6 @@ post_class: post-template
                     </ul>
                 </div>
                 <!-- End Categories -->
-                
-
-                <!-- Authors -->
-                {% if page.tags.size > 1 %}
-
-                <p>
-                    <small>
-                        <span class="post-date">Co-Author{% if page.tags.size > 2 %}s{% endif %}</span>
-                    </small>
-                </p> 
-
-                <div class="after-post-tags">
-                    <ul class="tags">
-                        {% assign authors = page.tags | sort %}
-                        {% for author in authors %}
-                        {% if page.author != author %}
-                        {% assign co-author = site.data.authors[author] %}
-                        <li>
-                            <a href="{{ site.baseurl }}/authors/{{ author }}/">{{ co-author.display_name }}</a>
-                        </li>
-                        {% endif %}
-                        {% endfor %}
-                    </ul>
-                </div>
-
-                {% endif %}
-                <!-- End Authors -->
 
                 <!-- Prev/Next -->
                 <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
