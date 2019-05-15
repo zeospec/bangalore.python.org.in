@@ -1,9 +1,4 @@
 source "https://rubygems.org"
-ruby RUBY_VERSION
-
-source "https://rubygems.org"
-gem 'github-pages'
-gem 'thin'
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -19,4 +14,6 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-archives'
     gem 'jekyll-paginate'
+    gem 'kramdown'
+    gem 'rouge'
 end

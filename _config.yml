@@ -38,4 +38,7 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title/
 highlighter: rouge
 
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "enabled"
+
 exclude: [vendor]
