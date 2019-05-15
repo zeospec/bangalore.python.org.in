@@ -23,4 +23,4 @@ Here are a few pictures from meetup.
 
 Thanks to saravana for taking session and GreenBubbles for hosting the event.
 
-If you want to give a talk or workshop, please leave a comment on [meetup page](http://meetup.com/BangPypers/). If you need any help with Python or Bangpypers events, you chat with us at Bangpypers [slack channel](https://bangpypers.herokuapp.com).
+If you want to give a talk or workshop, please leave a comment on [meetup page](http://meetup.com/BangPypers/). If you need any help with Python or Bangpypers events, you chat with us at Bangpypers [slack channel](https://bangpypers.slack.com).

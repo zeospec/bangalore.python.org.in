@@ -33,4 +33,4 @@ Here are a few snapshots from the workshop:
 Thanks to speakers, participants for making meetup awesome and Akamai Technologies for hosting the event.
 
 
-If you need any help with Python or Bangpypers events, you chat with us at Bangpypers [slack channel](https://bangpypers.herokuapp.com).
+If you need any help with Python or Bangpypers events, you chat with us at Bangpypers [slack channel](https://bangpypers.slack.com).

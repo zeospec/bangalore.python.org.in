@@ -28,4 +28,4 @@ Here are a few snapshots from the workshop:
 
 There was great response for the workshop. Thanks to speakers, participants for making meetup awesome and Cleartax for hosting the event.
 
-If you need any help with Python or Bangpypers events, you chat with us at Bangpypers [slack channel](https://bangpypers.herokuapp.com). If you want to give a talk or a workshop, please leave a comment on the meetup page.
+If you need any help with Python or Bangpypers events, you chat with us at Bangpypers [slack channel](https://bangpypers.slack.com). If you want to give a talk or a workshop, please leave a comment on the meetup page.
