@@ -7,8 +7,8 @@ favicon: '/assets/images/logo.jpg'
 og_img: '/assets/images/logo_og.jpg'
 footer_img: '/assets/images/logo_footer.jpg'
 post_default_img: '/assets/images/posts/bangpyperscover.jpg'
-baseurl: "https://bangalore.python.org.in"
-url: ""
+baseurl: ""
+url: "https://bangalore.python.org.in"
 # google_analytics: ''
 # disqus: ''
 # mailchimp-list: ''
