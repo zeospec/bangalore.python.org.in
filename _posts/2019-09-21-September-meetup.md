@@ -30,6 +30,7 @@ There will be no meetup organized in October, because [Pycon India 2019](https:/
 
 - [https://github.com/faif/python-patterns](https://github.com/faif/python-patterns)
 - [Design Patterns - commonly known as 'Gang of Four', available on Amazon](https://en.wikipedia.org/wiki/Design_Patterns)
+- [https://github.com/buckyroberts/Python-Design-Patterns] (https://github.com/buckyroberts/Python-Design-Patterns)
 
 #### Some images from September's meetup - 
 
