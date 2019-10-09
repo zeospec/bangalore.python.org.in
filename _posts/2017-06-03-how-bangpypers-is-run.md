@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How BangPypers meetup is run"
-author: bangpypers
+author: krace
 tags: [bangpypers]
 description: "How BangPypers meetup is run"
 categories: [ working ]

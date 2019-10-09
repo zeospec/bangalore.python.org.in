@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Algorithms Workshop – Mar, 2017"
-author: bangpypers
+author: abhiram
 tags: [bangpypers]
 description: "Algorithms Workshop – Mar, 2017"
 categories: [ meetup, talks, workshop ]

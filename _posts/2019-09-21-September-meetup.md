@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Talks – Sep, 2019"
-author: bangpypers
+author: abhiram
 tags: [bangpypers]
 description: "Talks – Sep, 2019"
 categories: [ meetup, talks, workshop ]
@@ -25,6 +25,11 @@ Content for Vinay's talk on organizing a bookshelf using Micropython can be foun
 Thank you all for coming and thanks to Visa Inc for giving us the venue for the event and for a scrumptious lunch!! :)
 
 There will be no meetup organized in October, because [Pycon India 2019](https://in.pycon.org/2019/) - the largest Python meetup in the country - is happening! If you're going to be there as well, see you there!
+
+#### Additional resources for you to check out - 
+
+- [https://github.com/faif/python-patterns](https://github.com/faif/python-patterns)
+- [Design Patterns - commonly known as 'Gang of Four', available on Amazon](https://en.wikipedia.org/wiki/Design_Patterns)
 
 #### Some images from September's meetup - 
 

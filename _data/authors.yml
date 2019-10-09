@@ -16,6 +16,14 @@ zeospec:
   web: https://zeospec.com
   twitter: https://twitter.com/zeospec/
   description: "ZeoSpec - Community at Heart"
+abhiram:
+  name: Abhiram
+  display_name: Abhiram
+  logo: /assets/images/authors/sharingan.jpeg
+  email: abhi.darkness@gmail.com
+  web: https://abhiramr.com
+  twitter: https://twitter.com/abhicantdraw/
+  description: "Abhiram - Co-Organiser"
 anistark:
   name: Kumar Anirudha
   display_name: Ani
@@ -23,4 +31,16 @@ anistark:
   email: anirudhastark@gmail.com
   web: https://anirudha.org
   twitter: https://twitter.com/kranirudha/
-  description: "Kumar Anirudha - Organiser"
+  description: "Kumar Anirudha - Co-Organiser"
+ritesh:
+  name: Ritesh Agrawal
+  display_name: Ritesh
+  logo: /assets/images/authors/bangpypers.jpg
+  email: udr.ritesh@gmail.com
+  twitter: https://twitter.com/agrawalritesh_
+  description: "Ritesh Agrawal - Co-Organiser"
+krace:
+  name: Kracekumar Ramaraju
+  display_name: Krace
+  logo: /assets/images/authors/bangpypers.jpg
+  email: me@kracekumar.com
