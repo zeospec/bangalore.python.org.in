@@ -1,5 +1,4 @@
 # twitter is used for the follow add any link that you want the user to go to.
-
 bangpypers:
   name: BangPypers
   display_name: BangPypers
@@ -8,6 +7,7 @@ bangpypers:
   web: https://bangalore.python.org.in
   twitter: https://www.meetup.com/BangPypers/
   description: "The Bangalore Python User Group"
+
 zeospec:
   name: ZeoSpec
   display_name: ZeoSpec
@@ -16,6 +16,7 @@ zeospec:
   web: https://zeospec.com
   twitter: https://twitter.com/zeospec/
   description: "ZeoSpec - Community at Heart"
+
 abhiram:
   name: Abhiram
   display_name: Abhiram
@@ -24,6 +25,7 @@ abhiram:
   web: https://abhiramr.com
   twitter: https://twitter.com/abhicantdraw/
   description: "Abhiram - Co-Organiser"
+
 anistark:
   name: Kumar Anirudha
   display_name: Ani
@@ -32,6 +34,7 @@ anistark:
   web: https://anirudha.org
   twitter: https://twitter.com/kranirudha/
   description: "Kumar Anirudha - Co-Organiser"
+
 ritesh:
   name: Ritesh Agrawal
   display_name: Ritesh
@@ -39,6 +42,7 @@ ritesh:
   email: udr.ritesh@gmail.com
   twitter: https://twitter.com/agrawalritesh_
   description: "Ritesh Agrawal - Co-Organiser"
+  
 krace:
   name: Kracekumar Ramaraju
   display_name: Krace

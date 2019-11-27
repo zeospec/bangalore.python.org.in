@@ -2,7 +2,7 @@
 layout: post
 title:  "Talks – Sep, 2019"
 author: abhiram
-tags: [bangpypers]
+tags: [abhiram]
 description: "Talks – Sep, 2019"
 categories: [ meetup, talks, workshop ]
 image:

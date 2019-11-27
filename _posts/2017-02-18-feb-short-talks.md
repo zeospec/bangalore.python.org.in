@@ -2,7 +2,7 @@
 layout: post
 title:  "Talks – Feb, 2017"
 author: krace
-tags: [bangpypers]
+tags: [krace]
 description: "Talks – Feb, 2017"
 categories: [ meetup, talks ]
 image:

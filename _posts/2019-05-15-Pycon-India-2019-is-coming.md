@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Pycon India 2019 is coming!"
-author: Abhiram
+author: abhiram
+tags: abhiram
 categories: [ conferences ]
 image: "/assets/images/posts/pycon-chennai-2019.png"
 featured: false

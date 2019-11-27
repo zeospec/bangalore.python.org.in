@@ -2,7 +2,7 @@
 layout: post
 title:  "IoT Workshop – Mar, 2017"
 author: abhiram
-tags: [bangpypers]
+tags: [abhiram]
 description: "IoT Workshop – Mar, 2017"
 categories: [ meetup, workshop ]
 image:

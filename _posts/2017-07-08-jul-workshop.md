@@ -2,7 +2,7 @@
 layout: post
 title:  "Talks – July, 2017"
 author: abhiram
-tags: [bangpypers]
+tags: [abhiram]
 description: "Talks – July, 2017"
 categories: [ meetup, talks, workshop ]
 image:
