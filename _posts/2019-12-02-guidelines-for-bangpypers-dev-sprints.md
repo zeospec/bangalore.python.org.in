@@ -2,7 +2,7 @@
 layout: post
 title:  "Guidelines for BangPypers Dev Sprints"
 author: anistark
-tags: [bangpypers, devsprint, opensource, programming, ani, anirudha]
+tags: [anistark, bangpypers, devsprint, opensource, programming, ani, anirudha]
 description: "Guidelines for BangPypers Dev Sprints"
 categories: [ meetup, talks, devsprints, opensource ]
 image:
@@ -27,7 +27,7 @@ As for BangPypers, we follow a list of strict guidelines to select the best proj
 1. Projects need to be in Python.
 2. Only those projects with an existing issue/bug lists will be considered. Project issues submitted for dev sprint, should be labelled BangPypers. 
 3. Projects need to have at least 1 maintainer present on dev sprint day for throughout the duration of the event.
-4. Projects should have a contributing doc. [An example of contributing document](). If not, we(BangPypers) can help set it up for the project.
+4. Projects should have a contributing doc. [An example of contributing document](https://github.com/pallets/flask/blob/master/CONTRIBUTING.rst). If not, we(BangPypers) can help set it up for the project.
 5. Projects must have a public repository under appropriate open source license. Please do not bring in your enterprise softwares in private repositories. Private repos will not be considered.
 6. Projects should be actively developed/maintained. We’ll check the Last commits and commit frequency on repo.
 7. Also label your issues with classifiers like good-first-issue or beginner and intermediate or advanced to make it easier to select issues to work from.
@@ -38,6 +38,7 @@ Guidelines for the participants:
 - Your own Laptop with pre-configured needed softwares to get started with.
 - Read the description or readme for the project you’re interested in. Go through any and all pre-requisites for the project. Try and setup the project on your system before coming down.
 - Knowledge of Git/svn/hg depending on the what the project uses.
+- Read and abide by the Code of Conduct that your project might have. Here's an example of [Code of Conduct](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way).
 
 How can I pick up a project ?
 
