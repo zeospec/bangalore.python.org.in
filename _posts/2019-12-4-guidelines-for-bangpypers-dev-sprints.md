@@ -4,7 +4,7 @@ title:  "Guidelines for BangPypers Dev Sprints"
 author: anistark
 tags: [bangpypers, devsprint, opensource, programming, ani, anistark, kumar, anirudha]
 description: "Guidelines for BangPypers Dev Sprints"
-categories: [ meetup, talks, devsprints, open-source ]
+categories: [ meetup, talks, devsprints, opensource ]
 image:
 featured: true
 hidden: false
