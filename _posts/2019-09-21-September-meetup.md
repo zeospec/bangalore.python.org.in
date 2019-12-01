@@ -6,7 +6,7 @@ tags: [abhiram]
 description: "Talks – Sep, 2019"
 categories: [ meetup, talks, workshop ]
 image:
-featured: true
+featured: false
 hidden: false
 ---
 
