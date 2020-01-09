@@ -32,7 +32,7 @@ As for BangPypers, we follow a list of strict guidelines to select the best proj
 6. Projects should be actively developed/maintained. We’ll check the Last commits and commit frequency on repo.
 7. Also label your issues with classifiers like good-first-issue or beginner and intermediate or advanced to make it easier to select issues to work from.
 
-Submit your project here: >watch this space<
+Submit your project here: [bit.ly/devsprint20](http://bit.ly/devsprint20)
 
 Guidelines for the participants:
 - Your own Laptop with pre-configured needed softwares to get started with.
