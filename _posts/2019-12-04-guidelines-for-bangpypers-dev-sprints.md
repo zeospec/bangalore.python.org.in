@@ -53,5 +53,5 @@ Here’s some of our previous dev sprints:
 - [2015 May](https://www.meetup.com/BangPypers/events/qxlhwkythbvb/)
 - [2014](https://www.meetup.com/BangPypers/events/qxlhwkysqbbc/)
 
-Get ready for our next [bangpypers dev sprint of 2020 in February](https://www.meetup.com/BangPypers/events/266874167/).
+Get ready for our next [Bangpypers Dev Sprint of 2020 in March](https://www.meetup.com/BangPypers/events/kswpqqybcfbcc/). RSVP opens a month before the event so that you can study and select your desired project and get acquainted with the mentor.
 
