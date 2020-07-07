@@ -6,7 +6,7 @@ tags: [anistark]
 description: "Guidelines for BangPypers Dev Sprints"
 categories: [devsprints]
 image:
-featured: true
+featured: false
 hidden: false
 ---
 
