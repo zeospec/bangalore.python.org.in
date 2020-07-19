@@ -6,7 +6,7 @@ tags: [abhiram]
 description: 
 categories: [workshop]
 image:
-featured: true
+featured: false
 hidden: false
 ---
 
