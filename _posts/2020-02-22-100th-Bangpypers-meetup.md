@@ -6,7 +6,7 @@ tags: [abhiram]
 description: 
 categories: [meetup]
 image:
-featured: true
+featured: false
 hidden: false
 ---
 
